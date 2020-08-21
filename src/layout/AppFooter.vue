@@ -21,10 +21,10 @@
         <div class="container">
             <div class="row row-grid align-items-center my-md">
                 <div class="col-lg-6">
-                    <h3 class="text-primary font-weight-light mb-2"> It has become appallingly obvious that our technology has exceeded our humanity.</h3>
-                    <h4 class="mb-0 font-weight-light">
-                      - Albert Einstein</h4>
+                    <h3 class="text-primary font-weight-light mb-2"> We are stuck with technology when what we really want is just stuff that works.</h3>
+                    <h4 class="mb-0 font-weight-light">Douglas Adams</h4>
                 </div>
+
                 <div class="col-lg-6 text-lg-center btn-wrapper">
                 <!--
                     <a target="_blank" rel="noopener" href="https://stackoverflow.com/users/356759/stevek"
@@ -71,11 +71,8 @@
 export default {
   name: 'app-footer',
   data() {
-    return {
-      year: new Date().getFullYear()
-    }
   }
-};
+}
 </script>
 <style>
 </style>

@@ -6,9 +6,51 @@
 	@include bg-gradient-variant(".bg-gradient-#{$color}", $value);
 }
 
-@each $color, $value in $colors { 
+@each $color, $value in $colors {
 	@include bg-gradient-variant(".bg-gradient-#{$color}", $value);
 }
+
+.stevek-ambient-iceicebaby-1 {
+	background-color: #ffffff;
+	background-image: linear-gradient(340deg, #ffffff 61%, #D9AFD9 80%, #97D9E1 97%);
+}
+
+.stevek-ambient-iceicebaby-2 {
+		background-color: #ffffff;
+		background-image: linear-gradient(340deg, #F05F57 68%, #360940 89%);
+}
+
+.stevek-ambient-blue {
+	background-color: #8BC6EC;
+	background-image: linear-gradient(177deg, #8BC6EC 0%, #9599E2 40%, #ffffff 91%);
+}
+
+.stevek-ambient-iceicebaby-3 {
+		background-color: #ffffff;
+		background-image: linear-gradient(340deg, #FFF886 68%, #F072B6 89%);
+}
+
+.stevek-ambient-iceicebaby-4 {
+		background-color: #ffffff;
+		background-image: linear-gradient(340deg, #FFCF71 11%, #2376DD 89%);
+}
+
+
+.stevek-ambient {
+	color:white;
+}
+
+.stevek-ambient-font {
+	color:white;
+	font-family: 'Open Sans';
+	font-weight: bold;
+}
+
+.stevek-ambient-dark {
+	color:black;
+}
+
+
 
 
 // Sections

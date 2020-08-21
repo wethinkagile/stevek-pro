@@ -19,7 +19,7 @@
                     <div class="col px-0">
                         <div class="row">
                             <div class="col-lg-6">
-                                <h1 class="display-3  text-white">A DevOps and Software Engineer
+                                <h1 class="display-3  text-white">A Cloud Native Software Engineer
                                     <span>available for hire and coaching</span>
                                 </h1>
                                 <p class="lead  text-white">Finding the right fit for your ICT roles is hard.
@@ -49,7 +49,7 @@
             </section>
             <!-- 1st Hero Variation -->
         </div>
-        
+
         <section class="section section-lg pt-lg-0 mt--200">
             <div class="container">
                 <div class="row justify-content-center">
