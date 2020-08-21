@@ -19,8 +19,8 @@
                     <div class="col px-0">
                         <div class="row">
                             <div class="col-lg-6">
-                                <h1 class="display-3  text-white">A Cloud Native Software Engineer
-                                    <span>available for hire and coaching</span>
+                                <h1 class="display-3  text-white">Cloud Software Engineer
+                                    <span>avail for hire in Alps/DACH</span>
                                 </h1>
                                 <p class="lead  text-white">Finding the right fit for your ICT roles is hard.
                                   Good thing that your search is over now.</p>
@@ -60,8 +60,8 @@
                                     <icon name="ni ni-check-bold" type="primary" rounded class="mb-4">
                                     </icon>
                                     <h6 class="text-primary text-uppercase">Reduce Downtimes</h6>
-                                    <p class="description mt-3">Kubernetes is great to eliminate down times during
-                                      rollouts, integrations, testing and fixes of your apps. This is what I did at MunichRe. Containerizing and maintaining 144 Microservices.</p>
+                                    <p class="description mt-3">Kube is great to eliminate down times during
+                                      rollouts, integration & test of services. I rock at Containerizing and maintaining Hundrets of Microservices.</p>
                                     <div>
                                         <badge type="primary" rounded>Reliability</badge>
                                         <badge type="primary" rounded>Helm</badge>

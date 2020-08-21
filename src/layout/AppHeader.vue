@@ -20,7 +20,7 @@
                 <base-dropdown class="nav-item" menu-classes="dropdown-menu-xl">
                     <a slot="title" href="#" class="nav-link" data-toggle="dropdown" role="button">
                         <i class="ni ni-ui-04 d-lg-none"></i>
-                        <span class="nav-link-inner--text">Technologie</span>
+                        <span class="nav-link-inner--text">Technology</span>
                     </a>
                     <div class="dropdown-menu-inner">
                         <a href="#"
@@ -29,7 +29,7 @@
                                 <i class="ni ni-spaceship"></i>
                             </div>
                             <div class="media-body ml-3">
-                                <h6 class="heading text-primary mb-md-1"><router-link to="/landing">Kubernetes</router-link></h6>
+                                <h6 class="heading text-primary mb-md-1"><router-link to="/landing">Kubernetes & SRE</router-link></h6>
                                 <p class="description d-none d-md-inline-block mb-0"><router-link to="/landing">Dive into the Realm of Kubernetes, the
                                     world's most performant Micro Service Cloud Orchestrator.</router-link></p>
                             </div>
@@ -40,7 +40,7 @@
                                 <i class="ni ni-ui-04"></i>
                             </div>
                             <div class="media-body ml-3">
-                                <h5 class="heading text-warning mb-md-1"><router-link to="/forestai">Fullstack / APIs</router-link></h5>
+                                <h5 class="heading text-warning mb-md-1"><router-link to="/forestai">Open APIs</router-link></h5>
                                 <p class="description d-none d-md-inline-block mb-0"><router-link to="/forestai">Connecting the Post-COVID world
                                   through the contribution of our open APIs.</router-link></p>
 
@@ -93,7 +93,7 @@
                 <span class="btn-inner--icon">
                   <i class="fa fa-user mr-2"></i>
                 </span>
-                <span class="nav-link-inner--text">LOGIN</span>
+                <router-link to="/login"><span class="nav-link-inner--text">LOGIN</span></router-link>
                     </a>
                 </li>
             </ul>
