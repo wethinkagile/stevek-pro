@@ -16,9 +16,12 @@
             <div class="col px-0">
 
                 <div class="row justify-content-center align-items-center">
-                    <div class="col-lg-7 text-center pt-lg">
+                    <div class="col-lg-7 text-center pt-lg stevek">
                         <img src="img/brand/stevek-logo-white.png" style="width: 200px;" class="img-fluid">
-                        <p class="lead text-white mt-4 mb-5">I'm an ICT consultant with 18 years of experience. I build software and serve it out from clusters.</p>
+                          <p class="lead text-white mt-4 mb-5">
+                            I'm a <a href="https://www.cncf.io/" target="_blank">Cloud Native</a> Web Developer.<br>
+                            I build Web apps and APIs and run them in K8s or Serverless.
+                          </p>
                         <div class="btn-wrapper">
                         <!--
                             <base-button tag="a"

@@ -34,16 +34,16 @@
                             <div class="col-lg-4 order-lg-1">
                                 <div class="card-profile-stats d-flex justify-content-center">
                                     <div>
-                                        <span class="heading">22</span>
-                                        <span class="description">Friends</span>
+                                        <span class="heading">4</span>
+                                        <span class="description">Fortune 500 Companies</span>
                                     </div>
                                     <div>
-                                        <span class="heading">10</span>
-                                        <span class="description">Photos</span>
+                                        <span class="heading">18</span>
+                                        <span class="description">Years Experience</span>
                                     </div>
                                     <div>
-                                        <span class="heading">89</span>
-                                        <span class="description">Comments</span>
+                                        <span class="heading">100</span>
+                                        <span class="description">Web Technologies</span>
                                     </div>
                                 </div>
                             </div>
@@ -59,7 +59,7 @@
                         <div class="mt-5 py-5 border-top text-center">
                             <div class="row justify-content-center">
                                 <div class="col-lg-9">
-                                    <p>
+                                    <p class='stevek-ambient'>
                                       I did the complete IT-Infrastructure of 40 membered team by hyper-dockerisation and turbo shifted all Apps to Kubernetes,
                                       the CNCF-Toolstack and the usual CI/CD Pipelines until production and GO-LIVE done with Jenkins,
                                       Gitlab, GitHub, Codeship, Quay, CircleCI, DockerHub and Helm-Chart Repositories.

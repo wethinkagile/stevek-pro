@@ -19,18 +19,22 @@
                     <div class="col px-0">
                         <div class="row">
                             <div class="col-lg-6">
-                                <h1 class="display-3  text-white">Cloud Software Engineer
-                                    <span>avail for hire in Alps/DACH</span>
+                                <h1 class="display-3 text-white">
+                                      Cloud Native Web Developer
+                                  <span>avail. for hire in DACH/NL</span>
                                 </h1>
-                                <p class="lead  text-white">Finding the right fit for your ICT roles is hard.
-                                  Good thing that your search is over now.</p>
+
+                                <p class="lead text-white">
+                                  I offer Software Engineering along the guidelines of Scrum, SAFe, DevOps, ITIL and ISO-certified security concepts. 
+                                </p>
+
                                 <div class="btn-wrapper">
                                   <base-button tag="a"
                                                href="mailto:stevek-at-stevek-punkt-pro"
                                                class="mb-3 mb-sm-0"
                                                type="white"
                                                icon="fa fa-handshake-o">
-                                      Hire SteveK
+                                      Contact SteveK
                                   </base-button>
                                   <router-link tag="a" to="/references" class="mb-3 mb-sm-0" icon="fa fa-vcard-o">
                                     <base-button tag="a"

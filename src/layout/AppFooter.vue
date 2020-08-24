@@ -68,6 +68,20 @@
     </footer>
 </template>
 <script>
+// I had no dreams of such economic success. You should have fun and not be so weighed down by expectations.
+// -  Sergey Brin
+//
+// We are stuck with technology when what we really want is just stuff that works.</h3>
+// - Douglas Adams
+//
+// It's fine to celebrate success but it is more important to heed the lessons of failure.
+// - Bill Gates
+//
+// Innovation distinguishes between a leader and a follower.
+// - Steve Jobs
+
+
+
 export default {
   name: 'app-footer',
   data() {

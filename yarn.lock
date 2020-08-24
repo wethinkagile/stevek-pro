@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-"@auth0/auth0-spa-js@^1.6.2":
+"@auth0/auth0-spa-js@^1.11.0":
   version "1.11.0"
   resolved "https://registry.yarnpkg.com/@auth0/auth0-spa-js/-/auth0-spa-js-1.11.0.tgz#800a59ddeaa11ad8a94a699c58f9971842ea065f"
   integrity sha512-PHYykO4IoEGeTT2SVzvZiJNK5QgznLJweJfVcb0C8X+rZYooBN5Qrdj0AfECzgK9h90kfU4u3s9h83VTSh6t3A==
@@ -1693,13 +1693,6 @@ atob@^2.1.2:
   version "2.1.2"
   resolved "https://registry.yarnpkg.com/atob/-/atob-2.1.2.tgz#6d9517eb9e030d2436666651e86bd9f6f13533c9"
   integrity sha512-Wm6ukoaOGJi/73p/cl2GvLjTI5JM1k/O14isD73YML8StrH/7/lRFgmg8nICZgD3bZZvjwCGxtMOD3wWNAu8cg==
-
-auth0-spa-js@^1.6.5:
-  version "1.6.5"
-  resolved "https://registry.yarnpkg.com/auth0-spa-js/-/auth0-spa-js-1.6.5.tgz#4e65e8398498275dfce5f58f6478448f60495782"
-  integrity sha512-qY2a7ovEcYxNJfyYMTUPnAcR6uqgo+mxhUFe2kwmkTwswkvy50TjbS9Xnj1Xi5AXgl23iLMcBos3qVWNci4ZYQ==
-  dependencies:
-    "@auth0/auth0-spa-js" "^1.6.2"
 
 autoprefixer@^9.8.6:
   version "9.8.6"

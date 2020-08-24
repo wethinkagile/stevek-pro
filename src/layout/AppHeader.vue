@@ -1,4 +1,4 @@
-<template>
+auncher<template>
     <header class="header-global">
         <base-nav class="navbar-main" transparent type="" effect="light" expand>
             <router-link slot="brand" class="navbar-brand mr-lg-5" to="/">
@@ -8,7 +8,7 @@
             <div class="row" slot="content-header" slot-scope="{closeMenu}">
                 <div class="col-6 collapse-brand">
                     <a href="https://demos.creative-tim.com/vue-argon-design-system/documentation/">
-                        <img src="img/brand/blue.png">
+                        <img src="img/brand/stevek-logo-magenta.png">
                     </a>
                 </div>
                 <div class="col-6 collapse-close">
@@ -29,23 +29,25 @@
                                 <i class="ni ni-spaceship"></i>
                             </div>
                             <div class="media-body ml-3">
-                                <h6 class="heading text-primary mb-md-1"><router-link to="/landing">Kubernetes & SRE</router-link></h6>
-                                <p class="description d-none d-md-inline-block mb-0"><router-link to="/landing">Dive into the Realm of Kubernetes, the
-                                    world's most performant Micro Service Cloud Orchestrator.</router-link></p>
+                                <h6 class="heading text-primary mb-md-1"><router-link to="/landing">Development</router-link></h6>
+                                <p class="description d-none d-md-inline-block mb-0"><router-link to="/landing">Read more about what I can do for your organisation.</router-link></p>
                             </div>
                         </a>
+                      <!--
                           <a href="#"
                            class="media d-flex align-items-center">
                             <div class="icon icon-shape bg-gradient-warning rounded-circle text-white">
                                 <i class="ni ni-ui-04"></i>
                             </div>
+
                             <div class="media-body ml-3">
-                                <h5 class="heading text-warning mb-md-1"><router-link to="/forestai">Open APIs</router-link></h5>
+                                <h5 class="heading text-warning mb-md-1"><router-link to="/forestai">Public APIs</router-link></h5>
                                 <p class="description d-none d-md-inline-block mb-0"><router-link to="/forestai">Connecting the Post-COVID world
                                   through the contribution of our open APIs.</router-link></p>
-
                             </div>
+
                         </a>
+                      -->
                     </div>
                 </base-dropdown>
                 <base-dropdown tag="li" class="nav-item">
@@ -91,10 +93,12 @@
                     <a href="/#/cv" target="_blank" rel="noopener"
                        class="btn btn-neutral btn-icon">
                 <span class="btn-inner--icon">
-                  <i class="fa fa-user mr-2"></i>
+                  <i class="fa fa-download mr-2"></i>
                 </span>
-                <router-link to="/login"><span class="nav-link-inner--text">LOGIN</span></router-link>
-                    </a>
+                <a href="https://ln2.sync.com/dl/bce698940/yx326dd7-x9xjhjii-y48ay6a9-fjc56m37"
+                   target="_blank" rel="noopener" data-toggle="tooltip">
+                   <span class="nav-link-inner--text">Download CV</span></a>
+                </a>
                 </li>
             </ul>
         </base-nav>

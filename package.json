@@ -8,7 +8,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "auth0-spa-js": "^1.6.5",
+    "@auth0/auth0-spa-js": "^1.11.0",
     "axios": "^0.19.2",
     "bootstrap-vue": "^2.0.4",
     "nouislider": "^11.1.0",
