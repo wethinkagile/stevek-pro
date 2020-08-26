@@ -27,8 +27,7 @@
                                 <div class="card-profile-actions py-4 mt-lg-0">
                                     <base-button disabled type="info" size="sm" class="mr-4">Linux</base-button>
                                     <base-button disabled type="default" size="sm" class="mr-4">K8S</base-button>
-                                    <base-button disabled type="success" size="sm" class="mr-4">JS</base-button>
-                                    <base-button disabled type="primary" size="sm" class="float-right">Agility</base-button>
+                                    <base-button disabled type="success" size="sm" class="mr-4">JavaScript</base-button>
                                 </div>
                             </div>
                             <div class="col-lg-4 order-lg-1">
@@ -53,7 +52,7 @@
                                 <span class="font-weight-light">, 40</span>
                             </h3>
                             <div class="h6 font-weight-300"><i class="ni location_pin mr-2"></i>Munich, Germany</div>
-                            <div class="h6 mt-4"><i class="ni business_briefcase-24 mr-2"></i>Cloud DevOps k8s/cncf/aws - Web Fullstack node/vue/angular</div>
+                            <div class="h6 mt-4"><i class="ni business_briefcase-24 mr-2"></i>Cloud k8s/gcp/aws - Fullstack node/vue/angular</div>
                             <div><i class="ni education_hat mr-2"></i>Software Engineer (Dipl.)</div>
                         </div>
                         <div class="mt-5 py-5 border-top text-center">

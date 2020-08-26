@@ -20,13 +20,16 @@
                         <div class="row">
                             <div class="col-lg-6">
                                 <h1 class="display-3 text-white">
-                                      Software Architect (Web/Cloud)
+                                      Software Engineer (Web/Cloud)
                                   <span>for hire in DACH/NL</span>
                                 </h1>
 
                                 <p class="lead text-white">
-                                  I offer expertise in Software Engineering along the guidelines of Scrum, SAFe, DevOps, ITIL and ISO-certified security concepts.
+                                  I offer my clients expertise in FullStack Development and Cloud Computing alongside Scrum, SAFe, DevOps and ITIL.
+                                   NodeJS APIs and MVVC FrontEnds in TypeScript. CI/CD I offer with GitHub, Jenkins & Helm.
                                 </p>
+
+                                <div><img src=""></div>
 
                                 <div class="btn-wrapper">
                                   <base-button tag="a"
@@ -66,15 +69,15 @@
                                     <icon name="ni ni-check-bold" type="primary" rounded class="mb-4">
                                     </icon>
                                     <h6 class="text-primary text-uppercase">Reduce Downtimes</h6>
-                                    <p class="description mt-3">Kube is great to eliminate down times during
-                                      rollouts, integration & test of services. I rock at Containerizing and maintaining Hundrets of Microservices.</p>
+                                    <p class="description mt-3">Load Balancers and CDNs are great to eliminate down times during
+                                      rollout. I offer solid containerisation and replication of hundreds of microservices.</p>
                                     <div>
-                                        <badge type="primary" rounded>Reliability</badge>
-                                        <badge type="primary" rounded>Helm</badge>
-                                        <badge type="primary" rounded>Monitoring</badge>
+                                        <badge type="primary" rounded>ELASTIC</badge>
+                                        <badge type="primary" rounded>PROMETHEUS</badge>
+                                        <badge type="primary" rounded>Dynatrace</badge>
                                     </div>
                                     <base-button tag="a" href="#" type="primary" class="mt-4">
-                                        iac @ MunichRE
+                                          kubedns or CoreDNS
                                     </base-button>
                                 </card>
                             </div>
@@ -82,16 +85,16 @@
                                 <card class="border-0" hover shadow body-classes="py-5">
                                     <icon name="ni ni-istanbul" type="success" rounded class="mb-4">
                                     </icon>
-                                    <h6 class="text-success text-uppercase">stage and report</h6>
-                                    <p class="description mt-3">Translate your software & deploy them via a on premise helm & docker repository
-                                     into a test Docker stage, then deployed to a pod with a node port & dns routing.</p>
+                                    <h6 class="text-success text-uppercase">stage and DEPLOY</h6>
+                                    <p class="description mt-3">Ship your software via helm repositories by your developers. The
+                                     deployment through staging is fully orchestrated by Kubernetes.</p>
                                     <div>
-                                        <badge type="success" rounded>reporting</badge>
-                                        <badge type="success" rounded>stage</badge>
+                                        <badge type="success" rounded>Terraform</badge>
+                                        <badge type="success" rounded>CNCF</badge>
                                         <badge type="success" rounded>feedback</badge>
                                     </div>
                                     <base-button tag="a" href="#" type="success" class="mt-4">
-                                        kubedns or CoreDNS?
+                                    Infrastructure As Code
                                     </base-button>
                                 </card>
                             </div>
@@ -100,14 +103,14 @@
                                     <icon name="ni ni-planet" type="warning" rounded class="mb-4">
                                     </icon>
                                     <h6 class="text-warning text-uppercase">clean code</h6>
-                                    <p class="description mt-3">With e2e testing with mocha,jasmine,chai,protractor,junit,leapwork,selenium,apium,browserstack and greenlighting a custom dashboard</p>
+                                    <p class="description mt-3">With e2e testing with Mocha, Jasmine, Protractor, Junit, Selenium, Apium, Browserstack and custom performance monitoring dashboards</p>
                                     <div>
-                                        <badge type="warning" rounded>TDD</badge>
+                                        <badge type="warning" rounded>CI/CD</badge>
                                         <badge type="warning" rounded>pipelines</badge>
-                                        <badge type="warning" rounded>qm/qa</badge>
+                                        <badge type="warning" rounded>SCRUM</badge>
                                     </div>
                                     <base-button tag="a" href="#" type="warning" class="mt-4">
-                                        scrum of scrums
+                                        CONTINIOUS INTEGRATION
                                     </base-button>
                                 </card>
                             </div>
