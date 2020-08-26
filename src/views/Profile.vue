@@ -39,10 +39,10 @@
                                     </div>
                                     <div>
                                         <span class="heading">18</span>
-                                        <span class="description">Years Experience</span>
+                                        <span class="description">Years of Experience</span>
                                     </div>
                                     <div>
-                                        <span class="heading">100</span>
+                                        <span class="heading">60+</span>
                                         <span class="description">Web Technologies</span>
                                     </div>
                                 </div>
@@ -59,23 +59,17 @@
                         <div class="mt-5 py-5 border-top text-center">
                             <div class="row justify-content-center">
                                 <div class="col-lg-9">
-                                    <p class='stevek-ambient'>
-                                      I did the complete IT-Infrastructure of 40 membered team by hyper-dockerisation and turbo shifted all Apps to Kubernetes,
-                                      the CNCF-Toolstack and the usual CI/CD Pipelines until production and GO-LIVE done with Jenkins,
-                                      Gitlab, GitHub, Codeship, Quay, CircleCI, DockerHub and Helm-Chart Repositories.
-<br><br>
-                                      In Cloud Native based PaaS Cloud Systems like CloudFoundry, AWS, GCE or Azure I am hereby steadfast.
-                                      Since more than 10 years I develop professionaly by proven Test- and Integrations concepts
-                                      like Git Workflow, TDD, E2E Test Frameworks.
+                                    <p class='stevek-ambient-dark'>
+                                      I offer expertise in Software Engineering alongside the guidelines and rulesets of Scrum, SAFe, Kanban and Agile. I usually
+                                      code for my clients in NodeJS, Angular, VueJS, React, TypeScript, RESTful APIs, Mongoose, Swagger, MongoDB, Python and Bash.
+                                      <br><br>
 
-<br><br>
-                                      Test-Automation itself I designed in OOPed Python, coded
-                                       with team members a in House owned E2E-Testframework with Selenium, Python, SSH, Jenkins, Leapwork, Atlassian BitBucket and Selenium.
-                                       The Training of the insurance agents and experts within the DevOps-Workflow and the E2E-Testautomatisierung was owned by me.
-<br><br>
-                                      I offer knowledge in Software Engineering along the guidelines and rulesets of Scrum, SAFe, Software Release Management with DevOps,
-                                      ITIL (if must) and the security concept with Kubernetes Namespaces, Secrets, DNS, RBAC, AWS IAM, Windows NTLM can be accomplished and multiplied
-                                      in-team through XP and other software development processes.
+                                      Operation Services I offer alongside best practices of DevOps and ITIL with AWS, GCE, Azure, CloudFoundry, Linux,
+                                      Kubernetes, KubeDNS, RBAC, AWS IAM, Windows NTLM, SSL/TLS, DNSSEC.
+                                      <br><br>
+
+                                      Test Automation and CI/CD I accomplish for my clients with Selenium, Karma, Jasmine, Expect, Should, BrowserStack, Jenkins,
+                                      Leapwork, GitHub, Codeship, Quay, CircleCI, DockerHub, Helm-Charts, Git Workflows, TDD and customised E2E Test Frameworks.
                                       </p>
                                 </div>
                             </div>

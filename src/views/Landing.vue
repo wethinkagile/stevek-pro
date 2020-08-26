@@ -20,12 +20,12 @@
                         <div class="row">
                             <div class="col-lg-6">
                                 <h1 class="display-3 text-white">
-                                      Cloud Native Web Developer
-                                  <span>avail. for hire in DACH/NL</span>
+                                      Software Architect (Web/Cloud)
+                                  <span>for hire in DACH/NL</span>
                                 </h1>
 
                                 <p class="lead text-white">
-                                  I offer Software Engineering along the guidelines of Scrum, SAFe, DevOps, ITIL and ISO-certified security concepts. 
+                                  I offer expertise in Software Engineering along the guidelines of Scrum, SAFe, DevOps, ITIL and ISO-certified security concepts.
                                 </p>
 
                                 <div class="btn-wrapper">
@@ -36,6 +36,7 @@
                                                icon="fa fa-handshake-o">
                                       Contact SteveK
                                   </base-button>
+                                  <!--
                                   <router-link tag="a" to="/references" class="mb-3 mb-sm-0" icon="fa fa-vcard-o">
                                     <base-button tag="a"
                                                href="mailto:stevek -at- stevek -punkt- pro"
@@ -45,6 +46,7 @@
                                                 References
                                       </base-button>
                                     </router-link>
+                                    -->
                                 </div>
                             </div>
                         </div>
