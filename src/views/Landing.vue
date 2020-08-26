@@ -37,7 +37,7 @@
                                                class="mb-3 mb-sm-0"
                                                type="white"
                                                icon="fa fa-handshake-o">
-                                      Contact SteveK
+                                      Contact Steve
                                   </base-button>
                                   <!--
                                   <router-link tag="a" to="/references" class="mb-3 mb-sm-0" icon="fa fa-vcard-o">

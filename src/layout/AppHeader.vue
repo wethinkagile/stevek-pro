@@ -7,7 +7,7 @@ auncher<template>
 
             <div class="row" slot="content-header" slot-scope="{closeMenu}">
                 <div class="col-6 collapse-brand">
-                    <a href="https://demos.creative-tim.com/vue-argon-design-system/documentation/">
+                    <a href="https://stevek.pro">
                         <img src="img/brand/stevek-logo-magenta.png">
                     </a>
                 </div>
