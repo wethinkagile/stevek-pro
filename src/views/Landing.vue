@@ -25,8 +25,8 @@
                                 </h1>
 
                                 <p class="lead text-white">
-                                  I offer my clients expertise in FullStack Development and Cloud Computing alongside Scrum, SAFe, DevOps and ITIL.
-                                   NodeJS APIs and MVVC FrontEnds in TypeScript. CI/CD I offer with GitHub, Jenkins & Helm.
+                                  I offer my clients Web Development and Cloud Computing with Kubernetes and GCP/AWS
+                                  alongside Scrum, SAFe, DevOps, ITIL. NodeJS APIs, MVVC VueJS/React/Angular in TypeScript. CI/CD w. GitHub, Jenkins & Helm.
                                 </p>
 
                                 <div><img src=""></div>
