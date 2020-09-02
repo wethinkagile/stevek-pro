@@ -59,24 +59,25 @@
                             <div class="row justify-content-center">
                                 <div class="col-lg-9 stevek-dark">
                                     
-                                    <!-- This goes into CV Section..
-                                      I offer expertise in Software Engineering alongside the guidelines and rulesets of Scrum, SAFe, Kanban and Agile. I usually
-                                      code for my clients in NodeJS, Angular, VueJS, React, TypeScript, RESTful APIs, Mongoose, Swagger, MongoDB, Python and Bash.
-                                      <br><br>
+                                        <!-- This goes into CV Section..
+                                        I offer expertise in Software Engineering alongside the guidelines and rulesets of Scrum, SAFe, Kanban and Agile. I usually
+                                        code for my clients in NodeJS, Angular, VueJS, React, TypeScript, RESTful APIs, Mongoose, Swagger, MongoDB, Python and Bash.
+                                        <br><br>
 
-                                      Operation Services I offer alongside best practices of DevOps and ITIL with AWS, GCE, Azure, CloudFoundry, Linux,
-                                      Kubernetes, KubeDNS, RBAC, AWS IAM, Windows NTLM, SSL/TLS, DNSSEC.
-                                      <br><br>
+                                        Operation Services I offer alongside best practices of DevOps and ITIL with AWS, GCE, Azure, CloudFoundry, Linux,
+                                        Kubernetes, KubeDNS, RBAC, AWS IAM, Windows NTLM, SSL/TLS, DNSSEC.
+                                        <br><br>
 
-                                      Test Automation and CI/CD I accomplish for my clients with Selenium, Karma, Jasmine, Expect, Should, BrowserStack, Jenkins,
-                                      Leapwork, GitHub, Codeship, Quay, CircleCI, DockerHub, Helm-Charts, Git Workflows, TDD and customised E2E Test Frameworks.
-                                -->
+                                        Test Automation and CI/CD I accomplish for my clients with Selenium, Karma, Jasmine, Expect, Should, BrowserStack, Jenkins,
+                                        Leapwork, GitHub, Codeship, Quay, CircleCI, DockerHub, Helm-Charts, Git Workflows, TDD and customised E2E Test Frameworks.
+                                        -->
                     
                                         <h2>
                                         Current location/time zone?
                                         </h2>
                                         <p>
-                                        I was born and raised in Heidelberg and moved near the Alps, in 2005. I am now based in Munich, Bavaria. The TimeZone is UTC+2.
+                                        I was born and raised in Heidelberg and moved near the Alps, in 2005. I am now based in Munich, Bavaria. 
+                                        The TimeZone here is <a href="https://www.timeanddate.com/worldclock/germany/munich" target='_blank'>UTC+2</a>.
                                         </p>
 
                                         <h2>
@@ -90,83 +91,64 @@
                                         What do you do for your clients?
                                         </h2>
                                         <p>
-                                        I’m lucky enough to be a Site Reliability Engineer. This encompasses Full Stack Web Development in various languages like VueJS, Angular, React and NodeJS, 
-                                        Scala or Go on the BackEnd. On the other side SRE encompasses the responsibily of production and making it the best it possibly can be. We are the gatekeepers
-                                        of production.
+                                        I’m lucky to know enough about the Web and Networks now, to call myself a Site Reliability Engineer. 
+                                        This encompasses Full Stack Web Development and on the other side SRE means you have the responsibily of making production the best it possibly can be.
+                                        An SRE is the gatekeeper of production.
                                         <br><br>
                                         
-                                        I'm a customer customer-facing engineer who partners with CTOs and Team Managers to determine the requirements and pain that potential developers or customer 
-                                        is going through, then identify ways that me and the tool stack I bring can remove that pain. 
-                                        <br><br>
-
-                                        A Site Reliability Engineer wears a number of hats: An average day might see you do bugfix an API that has become unreliable, or you could be 
-                                        talking to with the CTO and run a Infrastructure Demo on a new tool you want to build with your team; 
-                                        liaising with the Software Engineering and DevOps teams to ensure 
-                                        that additional feature requests are gathered and more issues resolved; or working on honing your presentation skills in a Dev Talk in the
-                                        afternoon. 
-                                        <br><br>
-
-                                        I became greatly motivated to join the Linux Foundation Certification System after using Kubernetes, Prometheus, Elastic, Grafana, Loki
-                                        whilst leading a small DevOps team of 3 in my last project,
-                                        which helped me fully understand their potential! This was my first true SRE role, having been a Full Stack Web Ninja and Software Architect 
-                                        for over two decades, and I’m really enjoying it.
+                                        A Site Reliability Engineer wears a number of hats: On an average day I fix bugs or refactor an API that has become unreliable, or you could be 
+                                        planning with your team or having a Infrastructure discussion with the CTO. It is crucial to liaise with Software Engineers, Testers and Ops to ensure 
+                                        all project-related needs are accounted for so that a Client's Continuous Delivery Infrastructure can continue to grow.
+                                        I became motivated to step up from being a SE to being a SRE after leading a small Ops team of 3 in my last project, 
+                                        which helped me fully understand the collaborative potential when Design, Dev, Test and Ops unify their Software delivery efforts with DevOps.
                                         </p>
 
                                         <h2>
                                         What open source projects do you contribute to?
                                         </h2> 
                                         <p>
-                                        I’ve contributed to the UX/UI of the Gnome Project and KDE Plasma. I’ve also been working on an Algorithm for <a href='httsp://eos.io'>EOSIO</a> for over a year now. 
-                                        I hope to be profitable with it soon. I can't tell any specifics about it, but it's written in NODE.JS. I will make a FrontEnd Demo connected to the API service of my 
-                                        system available on this web site soon enough.
+                                        I’ve contributed to the UX/UI of the Gnome Project and KDE Plasma. I’ve also been working on an algorithm for <a href='httsp://eos.io'>EOSIO</a> for over a year now. 
+                                        I hope to be profitable with it soon. I can't tell any specifics about it, other than that it's written in NodeJS. A demo will come soon enough.
                                         </p>
 
                                         <h2>
                                         What do you like to do in your free time?
                                         </h2> 
                                         <p>
-                                        I’m an avid fan of games, be it board, video or tabletop RPG, but I also enjoy outdoor activities and hanging with my family. We have avid cooks in our household, 
-                                        so I like to experiment in the kitchen with new ideas, appliances, literature and Vlogs. Finally I’m a very keen Alpinist (Mountaineer), although I wasn’t able 
-                                        to enjoy a lot of my hobby this year to to the COVID-19 crisis cluster.
+                                        I’m an avid fan of games, be it board-, video- or tabletop RPGs. I'm also a baker in our household, 
+                                        so I like to experiment in the kitchen with new ideas and appliances. Finally I’m a very keen Alpinist, although I wasn’t able 
+                                        to enjoy a lot of my outdoor hobby this year to to the COVID-19 crisis cluster.
                                         </p>
                                         
                                         <h2>
                                         What’s your favorite new gadget or tech toy?
                                         </h2> 
                                         <p>
-                                        I’ve just bought a new key for the <a href='https://hhkeyboard.us/' target='_blank'>Happy Hacking Keyboard</a>, which is made by Fujitsu and the MIT/Harvard, where I recently did a very enlightening Management Course.
-                                        <br><br>
+                                        I’ve just got a set of new keys for the <a href='https://hhkeyboard.us/' target='_blank'>Happy Hacking Keyboard</a>, 
+                                        which is made by Fujitsu and the M.I.T., where I recently did an interesting Management Course.
 
-                                        I’ve been collecting various keys, switches and soldering mods aka electical engineering for a few months now
-                                         and having become pretty good at it, 
-                                        I finally decided to take the plunge and get a keyboard that would let me up my game. 
-                                        <br><br>
-
-                                        The only problem is we’re now I'm running out of Kryotech Lube, as I’ve been lubing all our Switches so much! 
-                                        <!--
-                                        (also the lube ingredients are illegal to be manufactured in the EU, which means coding on my even newer Leopold Keyboard Acquirement
-                                        will be a *beep* blast! (Heck I ought do a Vlog about it here soon!)
-                                        -->
+                                        I’ve been collecting various keys, switches and do other modifications that involve soldering.
+                                        The only problem is we’re now running low on key lube, as I’ve been lubing all our Switches so much! 
                                         </p>
                                         
                                         <h2>
-                                        What do you do to get “in the zone” when you work?
+                                        What do you do to get "in the zone" when you work?
                                         </h2> 
                                         <p>
                                         A Site Reliability Engineer usually codes Software more than 50% of his time. We Software Engineers
-                                        <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6208645/" target='_blank'>avoid repetition</a>, we can't stand it (all humans can't), thus when thrown at with Infrastructure and 
-                                        manual, slow and repetetive processes, we tend to automate them away. 
+                                        <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6208645/" target='_blank'>avoid repetition</a>. Software Engineers can't stand repetitive tasks, thus when thrown at with 
+                                        slow, repetitive and manual processes in a Software Delivery Pipeline, Software Engineers tend to automate these processes, because building automatons that abstract difficulty away from the human is what we Software Engineers do.
                                         <br><br>
 
-                                        The rest of the time I usually do On Call, Supportive and Consulting tasks, pressing issue, sometimes production. 
-                                        A Sprint went well when I didn't encounter the same problem twice. 
+                                        The rest of the time I usually do supportive and consulting tasks, solve pressing issues, often in production. 
+                                        A Sprint went well when we didn't encounter the same problem twice. 
                                         </p>
 
                                         <h2>
                                         What’s the best part of your job?
                                         </h2> 
                                         <p>
-                                        Being able to talk to lots of interesting people about their infrastructure and architectures, 
+                                        Being able to talk to lots of interesting clients about their opinions and expertise about Web Technologies or Container Orchestration, 
                                         and being able to suggest ways to help them and make their professional lives better. 
                                         It’s a great feeling to help a client solve their issues!
                                         </p>
@@ -182,7 +164,7 @@
                                         What’s the last thing you read?
                                         </h2> 
                                         <p>
-                                        From Sagan, "Dragons of Eden". I currently also read Naranjo, Darwin and the DevOps Handbook by <a href='https://itrevolution.com/' target='_blank'>IT Revolution</a>.
+                                        From Carl Sagan, "Dragons of Eden", also the DevOps Handbook by <a href='https://itrevolution.com/' target='_blank'>IT Revolution</a>.
                                         </p>
 
                                         <!--(hey I shall code a moce pop-over here soon)
@@ -193,7 +175,7 @@
                                         What superpowers do you wish you had (or do you have!)?
                                         </h2>
                                         <p> 
-                                        Heal those in need and sponser legislation that reforms the democratic process.
+                                        Make IT sustainable and CO2-free, worldwide.
                                         </p>
                                         
                                         <h2>
@@ -201,9 +183,7 @@
                                         </h2>
                                     
                                         <p>
-                                        Getting <a href="https://ghost.org/" target='_blank'>Ghost 2.0</a> to run on Serverless is what was a really interesting problem to solve. 
-                                        Also I heard folks at <a href='https://cloud.google.com/community/tutorials/ghost-on-app-engine-part-1-deploying'
-                                         target="_blank">GCP</a> were successful.
+                                        Getting <a href="https://ghost.org/" target='_blank'>Ghost</a> to run Serverless was a really interesting problem to solve. 
                                         </p>
                                 </div>
                             </div>

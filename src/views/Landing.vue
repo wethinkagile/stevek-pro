@@ -32,24 +32,23 @@
                                 <div><img src=""></div>
 
                                 <div class="btn-wrapper">
-                                  <base-button tag="a"
-                                               href="mailto:stevek-at-stevek-punkt-pro"
-                                               class="mb-3 mb-sm-0"
-                                               type="white"
-                                               icon="fa fa-handshake-o">
-                                        Contact Me 
-                                  </base-button>
-                                  
-                                  <router-link tag="a" to="/profile" class="mb-3 mb-sm-0" icon="fa fa-vcard-o">
-                                    <base-button tag="a"
-                                               href="#"
-                                               class="mb-3 mb-sm-0"
-                                               type="white"
-                                               icon="fa fa-handshake-o">
-                                        About Me
-                                      </base-button>
+                                    <router-link tag="a" to="/profile" class="mb-3 mb-sm-0" icon="fa fa-vcard-o">
+                                        <base-button tag="a"
+                                                href="#"
+                                                class="mb-3 mb-sm-0"
+                                                type="white"
+                                                icon="fa fa-id-badge" style='margin-right:25px'>
+                                            About Me
+                                        </base-button>
                                     </router-link>
-                                    
+
+                                    <base-button tag="a"
+                                                href="mailto:stevek-at-stevek-punkt-pro"
+                                                class="mb-3 mb-sm-0"
+                                                type="white"
+                                                icon="fa fa-handshake-o">
+                                            Contact 
+                                    </base-button>       
                                 </div>
                             </div>
                         </div>

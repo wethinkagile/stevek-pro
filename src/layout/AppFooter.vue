@@ -21,8 +21,8 @@
         <div class="container">
             <div class="row row-grid align-items-center my-md">
                 <div class="col-lg-6">
-                    <h3 class="text-primary font-weight-light mb-2"> We are stuck with technology when what we really want is just stuff that works.</h3>
-                    <h4 class="mb-0 font-weight-light">- Douglas Adams</h4>
+                    <h3 class="text-primary font-weight-light mb-2">SRE is what happens when you ask a software engineer to design an operations team.</h3>
+                    <h4 class="mb-0 font-weight-light">- Ben Treynor</h4>
                 </div>
 
                 <div class="col-lg-6 text-lg-center btn-wrapper">
@@ -80,6 +80,7 @@
 // Innovation distinguishes between a leader and a follower.
 // - Steve Jobs
 
+// SRE is what happens when you ask a software engineer to design an operations team.
 
 
 export default {

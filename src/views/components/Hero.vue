@@ -18,29 +18,15 @@
                 <div class="row justify-content-center align-items-center">
                     <div class="col-lg-7 text-center pt-lg stevek">
                         <img src="img/brand/stevek-logo-white.png" style="width: 200px;" class="img-fluid">
-                          <p class="lead text-white mt-4 mb-5">
-                            <br />
-                            I'm a <router-link to="/landing">Site Reliability Engineer</router-link>.<br>
-                            I automate Infrastructure, create FrontEnds and APIs and run them in the Cloud.
-                          </p>
-                        <div class="btn-wrapper">
-                        <!--
-                            <base-button tag="a"
-                                         href="https://demos.creative-tim.com/vue-argon-design-system/documentation"
-                                         class="mb-3 mb-sm-0"
-                                         type="info"
-                                         icon="fa fa-code">
-                                Components
-                            </base-button>
-                            <base-button tag="a"
-                                         href="https://www.creative-tim.com/product/vue-argon-design-system"
-                                         class="mb-3 mb-sm-0"
-                                         type="white"
-                                         icon="ni ni-cloud-download-95">
-                                Download Vue
-                            </base-button>
-                            -->
-                        </div>
+
+                            <div class="lead text-white" style='margin-top:-25px; margin-left:87px'>Stephan Kristyn</div>
+                            <br /><br />
+                            <div class="lead text-white mt-4 mb-5">
+                                I'm a <router-link to="/landing">Site Reliability Engineer</router-link>.<br>
+                                I automate Infrastructure, create FrontEnds and APIs and run them in the Cloud.
+
+                            </div>
+   
                     </div>
                 </div>
 
@@ -51,11 +37,10 @@
                             <img src="img/brand/github-white-slim.png" style="height: 22px; margin-top: -3px">
                         </a>
                     </div>
-                    <div class="col-sm-4 mt-4 mt-sm-0 text-right">
-                        <span class="text-white alpha-7">Coded by</span>
-                        <a class="gloria" href="/#/profile" target="_self" title="Stephan Kristyn - Lead Web Dev & Cloud Architect">
-                            Steve
-                        </a>
+                    <div class="col-sm-4 mt-4 mt-sm-0 text-right stevek-fancy">
+                        <span class="text-white alpha-7">Shipped with &#9650; </span>
+                        <a href="https://vercel.com" target="_blank" 
+                        title="Serverless">Vercel</a>
                     </div>
                 </div>
             </div>
