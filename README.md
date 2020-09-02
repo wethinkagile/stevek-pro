@@ -1,4 +1,4 @@
-<h1 id="stevek-website"><a href="https://stevek.pro">SteveK.Pro Website</a></h1>
+<h1 id="stevek-website"><a href="https://stevek.pro">SteveK.ro Website</a></h1>
 
 
 <p>This is my professional Web Site. It is VueJS-based and talks to various APIs.</p>
@@ -14,9 +14,8 @@
 
 
 <h2 id="tech-stack">Technology Stack</h2>
-<p>A `yarn install` will feed your `node_modules` directory with Bootstrap 4, VueJS, NodeJS, SASS and Auth0. <br>
-Can be deployed serverless. <br>
-<strong>Start with</strong> `yarn serve` to open a server on localhost.</p>
+<p>A ``yarn install`` will feed your ``node_modules`` directory with Bootstrap 4, VueJS, NodeJS, SASS and Auth0. <br>
+<strong>Start</strong> with ``yarn serve`` to open a server on localhost.</p>
 
 
 <h2 id="file-structure">File Structure</h2>
