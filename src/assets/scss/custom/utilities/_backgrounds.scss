@@ -42,16 +42,43 @@
    text-decoration: none;
    box-shadow: inset 0 -3px 0 0 #f5b4f8;
 }
+
 .stevek a:hover:link {
 	background-color: #f5b4f8;
 }
 
+
+.stevek-dark>p {
+	font-family: 'Open Sans', sans-serif;
+	font-size:18px;
+	margin-bottom:50px;
+	
+}
+
+.stevek-dark a:link, .stevek-dark a:visited {
+  color:black;
+  font-weight: bold;
+  text-decoration: none;
+  box-shadow: inset 0 -3px 0 0 #f5b4f8;
+}
+
+.stevek-dark a:hover:link {
+   background-color: #f5b4f8;
+}
+
+.stevek-dark>h2 {
+	font-family: 'Open Sans', sans-serif;
+	font-size:18px;
+	font-weight:bold;
+}
+
 .stevek-blue a:link, .stevek-blue a:visited {
-	 color:white;
-	 font-weight: bold;
+   color:white;
+   font-weight: bold;
    text-decoration: none;
    box-shadow: inset 0 -3px 0 0 #B4E7F8;
 }
+
 .stevek-blue a:hover:link {
 	background-color: #B4E7F8;
 }

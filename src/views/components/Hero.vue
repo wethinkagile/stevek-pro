@@ -20,8 +20,8 @@
                         <img src="img/brand/stevek-logo-white.png" style="width: 200px;" class="img-fluid">
                           <p class="lead text-white mt-4 mb-5">
                             <br />
-                            I'm a <router-link to="/landing">Cloud Native</router-link> Web Developer.<br>
-                            I build Web apps and APIs and run them in K8s or Serverless.
+                            I'm a <router-link to="/landing">Site Reliability Engineer</router-link>.<br>
+                            I automate Infrastructure, create FrontEnds and APIs and run them in the Cloud.
                           </p>
                         <div class="btn-wrapper">
                         <!--
@@ -53,7 +53,7 @@
                     </div>
                     <div class="col-sm-4 mt-4 mt-sm-0 text-right">
                         <span class="text-white alpha-7">Coded by</span>
-                        <a class="gloria" href="/#/profile" target="_self" title="Stephan A. Kristyn - Lead Web Dev & Cloud Architect">
+                        <a class="gloria" href="/#/profile" target="_self" title="Stephan Kristyn - Lead Web Dev & Cloud Architect">
                             Steve
                         </a>
                     </div>

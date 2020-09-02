@@ -20,8 +20,8 @@
                         <div class="row">
                             <div class="col-lg-6">
                                 <h1 class="display-3 text-white">
-                                      Software Engineer (Web/Cloud)
-                                  <span>for hire in DACH/NL</span>
+                                      Site Reliability Engineer
+                                  <span>for hire in DACH and BE/NE/LUX</span>
                                 </h1>
 
                                 <p class="lead text-white">
@@ -37,19 +37,19 @@
                                                class="mb-3 mb-sm-0"
                                                type="white"
                                                icon="fa fa-handshake-o">
-                                      Contact Steve
+                                        Contact Me 
                                   </base-button>
-                                  <!--
-                                  <router-link tag="a" to="/references" class="mb-3 mb-sm-0" icon="fa fa-vcard-o">
+                                  
+                                  <router-link tag="a" to="/profile" class="mb-3 mb-sm-0" icon="fa fa-vcard-o">
                                     <base-button tag="a"
-                                               href="mailto:stevek -at- stevek -punkt- pro"
+                                               href="#"
                                                class="mb-3 mb-sm-0"
                                                type="white"
                                                icon="fa fa-handshake-o">
-                                                References
+                                        About Me
                                       </base-button>
                                     </router-link>
-                                    -->
+                                    
                                 </div>
                             </div>
                         </div>
