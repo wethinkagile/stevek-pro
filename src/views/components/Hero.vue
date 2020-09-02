@@ -32,9 +32,9 @@
 
                 <div class="row align-items-center justify-content-around stars-and-coded">
                     <div class="col-sm-4">
-                        <span class="text-white alpha-7 ml-3">Star me on</span>
-                        <a href="https://github.com/stevek-pro" target="_blank" title="Support me on Github">
-                            <img src="img/brand/github-white-slim.png" style="height: 22px; margin-top: -3px">
+                        <span class="text-white alpha-7 ml-3">This project on</span>
+                        <a href="https://github.com/stevek-pro/stevek-argon" target="_blank" title="Star me on Github">
+                            <img src="img/brand/github-white-slim.png" style="height: 17px; margin-top: -3px">
                         </a>
                     </div>
                     <div class="col-sm-4 mt-4 mt-sm-0 text-right stevek-fancy">
