@@ -22,7 +22,7 @@
 <p>Within the project you’ll find the following directories and files:</p>
 
 <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>stevek-pro/
-|-- stevek-argon
+|-- stevek-pro
     |-- App.vue
     |-- main.js
     |-- router.js
