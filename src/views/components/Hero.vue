@@ -23,8 +23,8 @@
                             <br /><br />
                             <div class="lead text-white mt-4 mb-5">
                                 I'm a <router-link to="/landing">Site Reliability Engineer</router-link>.<br>
-                                I automate Infrastructure, create FrontEnds, APIs, Apps and operate
-                                these in the cloud for Finance, Insurance and Hi-Tec.
+                                I automate Infrastructure, create FrontEnds, APIs and operate
+                                these in the cloud for Finance, Hi-Tech and the Common Good.
                             </div>
    
                     </div>
