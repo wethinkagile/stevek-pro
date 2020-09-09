@@ -48,12 +48,18 @@
                             </div>
                         </div>
                         <div class="text-center mt-5">
-                            <h3>Steve K.
+                            <h3>Stephan K.
                                 <span class="font-weight-light">, 40</span>
                             </h3>
-                            <div class="h6 font-weight-300"><i class="ni location_pin mr-2"></i>Munich, Germany</div>
-                            <div class="h6 mt-4"><i class="ni business_briefcase-24 mr-2"></i>Cloud k8s/gcp/aws - Fullstack node/vue/angular</div>
+                            <div class="h6 font-weight-300"><i class="ni location_pin mr-2"></i>München, Germany</div>
                             <div><i class="ni education_hat mr-2"></i>Site Reliability Engineer</div>
+                            <div class="mt-4"><i class="ni business_briefcase-24 mr-2"></i>
+                            <!--
+                            <b>Cloud</b>: K8s GCP AWS Git Jenkins Helm Quay DockerHub<br /><br /> OpenShift Dynatrace Grafana Prometheus Kafka <br /><br />
+                            <b>Fullstack</b>: Node Python Go C# Java DNS TCP/IP <br /><br />
+                            <b>Web</b>: Vue Angular React Bootstrap Sass <br /><br />
+                            -->
+                            </div>
                         </div>
                         <div class="mt-5 py-5 border-top text-left">
                             <div class="row justify-content-center">

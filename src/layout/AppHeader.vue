@@ -28,11 +28,11 @@ auncher<template>
                             <div class="icon icon-shape bg-gradient-primary rounded-circle text-white">
                                 <i class="ni ni-spaceship"></i>
                             </div>
+                         </a>
                             <div class="media-body ml-3">
                                 <h6 class="heading text-primary mb-md-1"><router-link to="/landing">Development</router-link></h6>
                                 <p class="description d-none d-md-inline-block mb-0"><router-link to="/landing">Read more about what I can do for your organisation.</router-link></p>
                             </div>
-                        </a>
                       <!--
                           <a href="#"
                            class="media d-flex align-items-center">
@@ -90,14 +90,12 @@ auncher<template>
                     </a>
                 </li>
                 <li class="nav-item d-none d-lg-block ml-lg-4">
-                    <a href="https://ln2.sync.com/dl/bce698940/yx326dd7-x9xjhjii-y48ay6a9-fjc56m37" target="_blank" rel="noopener"
+                    <a href="https://ln2.sync.com/dl/bce698940/yx326dd7-x9xjhjii-y48ay6a9-fjc56m37" data-toggle="tooltip" target="_blank" rel="noopener"
                        class="btn btn-neutral btn-icon">
                 <span class="btn-inner--icon">
                   <i class="fa fa-download mr-2"></i>
                 </span>
-                <a href="https://ln2.sync.com/dl/bce698940/yx326dd7-x9xjhjii-y48ay6a9-fjc56m37"
-                   target="_blank" rel="noopener" data-toggle="tooltip">
-                   <span class="nav-link-inner--text">Download CV</span></a>
+                <span class="nav-link-inner--text">Download CV</span></a>
                 </li>
             </ul>
         </base-nav>
