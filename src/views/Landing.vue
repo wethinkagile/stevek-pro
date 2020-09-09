@@ -43,7 +43,7 @@
                                     </router-link>
 
                                     <base-button tag="a"
-                                                href="mailto:stevek-at-stevek-punkt-pro"
+                                                href="mailto:hire-at-stevek-punkt-pro"
                                                 class="mb-3 mb-sm-0"
                                                 type="white"
                                                 icon="fa fa-handshake-o">

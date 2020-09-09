@@ -20,18 +20,18 @@ auncher<template>
                 <base-dropdown class="nav-item" menu-classes="dropdown-menu-xl">
                     <a slot="title" href="#" class="nav-link" data-toggle="dropdown" role="button">
                         <i class="ni ni-ui-04 d-lg-none"></i>
-                        <span class="nav-link-inner--text">Technology</span>
+                        <span class="nav-link-inner--text">Expertise</span>
                     </a>
                     <div class="dropdown-menu-inner">
-                        <a href="#"
+                       <!-- <a href="#"
                            class="media d-flex align-items-center">
                             <div class="icon icon-shape bg-gradient-primary rounded-circle text-white">
                                 <i class="ni ni-spaceship"></i>
                             </div>
-                         </a>
+                         </a>-->
                             <div class="media-body ml-3">
-                                <h6 class="heading text-primary mb-md-1"><router-link to="/landing">Development</router-link></h6>
-                                <p class="description d-none d-md-inline-block mb-0"><router-link to="/landing">Read more about what I can do for your organisation.</router-link></p>
+                                <h6 class="heading text-primary mb-md-1"><router-link to="/landing">Elevator Pitch</router-link></h6>
+                                <p class="description d-none d-md-inline-block mb-0"><router-link to="/landing"><i>Why I'm the right choice for your project</i></router-link></p>
                             </div>
                       <!--
                           <a href="#"
@@ -53,11 +53,13 @@ auncher<template>
                 <base-dropdown tag="li" class="nav-item">
                     <a slot="title" href="#" class="nav-link" data-toggle="dropdown" role="button">
                         <i class="ni ni-collection d-lg-none"></i>
-                        <span class="nav-link-inner--text">Service</span>
+                        <span class="nav-link-inner--text">Insight</span>
                     </a>
-                    <router-link to="/profile" class="dropdown-item">About Steve</router-link>
+                    <router-link to="/profile" class="dropdown-item">About Me</router-link>
+                    <!--
                     <router-link to="/login" class="dropdown-item">Login</router-link>
                     <router-link to="/register" class="dropdown-item">Register</router-link>
+                    -->
                 </base-dropdown>
             </ul>
             <ul class="navbar-nav align-items-lg-center ml-lg-auto">
