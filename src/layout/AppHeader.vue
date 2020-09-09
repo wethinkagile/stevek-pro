@@ -84,13 +84,13 @@ auncher<template>
                 </li> -->
                 <li class="nav-item">
                     <a class="nav-link nav-link-icon" href="https://github.com/stevek-pro"
-                       target="_blank" rel="noopener" data-toggle="tooltip" title="Star us on Github">
+                       target="_blank" rel="noopener" data-toggle="tooltip" title="Star me on Github">
                         <i class="fa fa-github"></i>
                         <span class="nav-link-inner--text d-lg-none">Github</span>
                     </a>
                 </li>
                 <li class="nav-item d-none d-lg-block ml-lg-4">
-                    <a href="/#/cv" target="_blank" rel="noopener"
+                    <a href="https://ln2.sync.com/dl/bce698940/yx326dd7-x9xjhjii-y48ay6a9-fjc56m37" target="_blank" rel="noopener"
                        class="btn btn-neutral btn-icon">
                 <span class="btn-inner--icon">
                   <i class="fa fa-download mr-2"></i>
@@ -98,7 +98,6 @@ auncher<template>
                 <a href="https://ln2.sync.com/dl/bce698940/yx326dd7-x9xjhjii-y48ay6a9-fjc56m37"
                    target="_blank" rel="noopener" data-toggle="tooltip">
                    <span class="nav-link-inner--text">Download CV</span></a>
-                </a>
                 </li>
             </ul>
         </base-nav>
