@@ -45,7 +45,7 @@
                 <div class="col-md-6">
                     <div class="copyright">
                         &copy; {{year}}
-                        <a href="#" target="_blank" rel="noopener">Stephan Kristyn.</a> 81545 München, Deutschland.
+                        <a href="/#/profile" target="_self" rel="noopener">Stephan Kristyn.</a> 81545 München, Deutschland.
                     </div>
                 </div>
                 <div class="col-md-6">

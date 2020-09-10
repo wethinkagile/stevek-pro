@@ -92,7 +92,7 @@ auncher<template>
                     </a>
                 </li>
                 <li class="nav-item d-none d-lg-block ml-lg-4">
-                    <a href="https://ln2.sync.com/dl/bce698940/yx326dd7-x9xjhjii-y48ay6a9-fjc56m37" data-toggle="tooltip" target="_blank" rel="noopener"
+                    <a href="https://ln2.sync.com/dl/09ea7d100/u7yu7kvf-zrw7u2qx-yegjz6dn-z6y97udk" data-toggle="tooltip" target="_blank" rel="noopener"
                        class="btn btn-neutral btn-icon">
                 <span class="btn-inner--icon">
                   <i class="fa fa-download mr-2"></i>

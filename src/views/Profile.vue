@@ -109,7 +109,9 @@
                                         planning with your team or having a Infrastructure discussion with the CTO. It is crucial to liaise with Software Engineers, Testers and Ops to ensure 
                                         all project-related needs are accounted for so that a Client's Continuous Delivery Infrastructure can continue to grow.
                                         I became motivated to step up from being a SE to being a SRE after leading a small Ops team of 3 in my last project, 
-                                        which helped me fully understand the collaborative potential when Design, Dev, Test and Ops unify their Software delivery efforts with DevOps.
+                                        which helped me fully understand the collaborative potential when 
+                                        Product Design, Development, Testing and Ops unify their unique Software delivery efforts to create a truly automatic pipeline and not just automation. 
+                                        <b>This is what we call DevOps</b>.
                                         </p>
 
                                         <h2>
