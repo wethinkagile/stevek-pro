@@ -22,22 +22,22 @@
             <div class="row row-grid align-items-center my-md">
                 <div class="col-lg-6">
                     <h3 class="text-primary font-weight-light mb-2">SRE is what happens when you ask a software engineer to design an operations team.</h3>
-                    <h4 class="mb-0 font-weight-light">- Ben Treynor</h4>
+                    <h4 class="mb-0 font-weight-light stevek-dark">- <a href="https://en.wikipedia.org/wiki/Site_Reliability_Engineering" target="_blank">Ben Treynor</a></h4>
                 </div>
 
                 <div class="col-lg-6 text-lg-center btn-wrapper">
-                <!--
-                    <a target="_blank" rel="noopener" href="https://stackoverflow.com/users/356759/stevek"
-                       class="btn btn-neutral btn-icon-only btn-facebook btn-round btn-lg" data-toggle="tooltip"
-                       data-original-title="Follow us">
-                        <i class="fa fa-stack-overflow"></i>
-                    </a>
-                    <a target="_blank" rel="noopener" href="https://github.com/stevek-pro"
-                       class="btn btn-neutral btn-icon-only btn-github btn-round btn-lg" data-toggle="tooltip"
-                       data-original-title="Star on Github">
-                        <i class="fa fa-github"></i>
-                    </a>
-                    -->
+                    <div style='margin-left:70px'>
+                        <a target="_blank" rel="noopener" href="https://stackoverflow.com/users/356759/steve-k?tab=profile"
+                        class="btn btn-neutral btn-icon-only btn-facebook btn-round btn-lg" data-toggle="tooltip"
+                        data-original-title="Follow us">
+                            <i class="fa fa-stack-overflow"></i>
+                        </a> 
+                        <a target="_blank" rel="noopener" href="https://github.com/stevek-pro"
+                        class="btn btn-neutral btn-icon-only btn-github btn-round btn-lg" data-toggle="tooltip"
+                        data-original-title="Star on Github">
+                            <i class="fa fa-github"></i>
+                        </a> 
+                   </div>
                 </div>
             </div>
             <hr>

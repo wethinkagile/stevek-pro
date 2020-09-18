@@ -100,18 +100,18 @@
                                         What do you do for your clients?
                                         </h2>
                                         <p>
-                                        I’m lucky to know enough about the Web and Networks now, to call myself a Site Reliability Engineer. 
-                                        This encompasses Full Stack Web Development and on the other side SRE means you have the responsibily of making production the best it possibly can be.
-                                        An SRE is the gatekeeper of production.
+                                        I’m lucky to know enough about Networks and the Web now, to call myself a Site Reliability Engineer. 
+                                        This encompasses <b>Full Stack Web Development</b> and on the other side SRE means you have the responsibily of making production the best it possibly can be.
+                                        An SRE is the <b>gatekeeper of production</b>.
                                         <br><br>
                                         
                                         A Site Reliability Engineer wears a number of hats: On an average day I fix bugs or refactor an API that has become unreliable, or you could be 
-                                        planning with your team or having a Infrastructure discussion with the CTO. It is crucial to liaise with Software Engineers, Testers and Ops to ensure 
-                                        all project-related needs are accounted for so that a Client's Continuous Delivery Infrastructure can continue to grow.
+                                        planning with your team or having a <b>Infrastructure discussion with the CTO</b>. It is <b>crucial to liaise with Software Engineers, Testers and Ops</b> to ensure 
+                                        all project-related needs are accounted for so that a Client's <b>Continuous Delivery Infrastructure</b> can continue to grow.
                                         I became motivated to step up from being a SE to being a SRE after leading a small Ops team of 3 in my last project, 
-                                        which helped me fully understand the collaborative potential when 
-                                        Product Design, Development, Testing and Ops unify their unique Software delivery efforts to create a truly automatic pipeline and not just automation. 
-                                        <b>This is what we call DevOps</b>.
+                                        which helped me fully understand the <b>collaborative potential</b> when 
+                                        <a href="https://dzone.com/articles/what-is-devops-the-beginners-guide" target="_blank">Product Design, Development, Testing and Ops unify</a> their unique Software delivery efforts to create a truly automatic pipeline and not just automation. 
+                                        <b>This is what we call DevOps 2.0</b>. 
                                         </p>
 
                                         <h2>
