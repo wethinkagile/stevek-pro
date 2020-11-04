@@ -28,28 +28,11 @@
     |-- router.js
     |-- assets
     |   |-- scss
-    |   |   |-- argon.scss
-    |   |   |-- bootstrap
-    |   |   |-- custom
     |   |-- vendor
-    |       |-- font-awesome
-    |       |   |-- css
     |-- components
-    |   |-- Badge.vue
-    |   |-- BaseButton.vue
-    |   |-- BaseCheckbox.vue
-    |   |-- BaseInput.vue
-    |   |-- BaseNav.vue
-    |   |-- BaseRadio.vue
-    |   |-- BaseSlider.vue
-    |   |-- BaseSwitch.vue
-    |   |-- Card.vue
-    |   |-- CloseButton.vue
-    |   |-- Icon.vue
-    |   |-- NavbarToggleButton.vue
     |-- layout
-    |   |-- AppFooter.vue
-    |   |-- AppHeader.vue
+    | etc..
+|    
 </code></pre></div></div>
 
 <h2 id="browser-support">Browser Support</h2>
