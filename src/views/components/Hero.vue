@@ -23,8 +23,8 @@
                             <br /><br />
                             <div class="lead text-white mt-4 mb-5">
                                 I'm a <router-link to="/landing">Site Reliability Engineer</router-link>.<br />
-                                I automate CI/CD, DB, Search & Kubernetes Clusters and implement Fullstack/Mobile 
-                                for my clients of Hi-Tech, Fintech/Insurtech and SMEs.<br />
+                                I automate CI/CD, Containers & Orchestrators and help my esteemed clients 
+                                of Hi-Tech, Fintech/Insurtech and SMEs to raise DevOps Culture Awareness and Readyness.<br />
                             </div>
    
                     </div>

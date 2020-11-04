@@ -24,9 +24,20 @@
                                   <span>for hire in DACH and BE/NE/LUX</span>
                                 </h1>
 
-                                <p class="lead text-white">
-                                  I offer my clients Web Development and Cloud Computing with Kubernetes and GCP/AWS
-                                  alongside Scrum, SAFe, DevOps, ITIL. NodeJS APIs, MVVC VueJS/React/Angular in TypeScript. CI/CD w. GitHub, Jenkins & Helm.
+                                <p class="lead text-white stevek">
+                                  I offer Audit Logging and signing, high integrity / security, High Availability (HA),
+                                    Rollbacks, CI/CD, Garbage Collection, Dockerfile build systems and storage. 
+                                    <br><br>
+                                    I can also help you transform your Digital business and the bottle-shape or cocktail-shape
+                                    in your test pyramid into a fast-moving, fast-deploying, high available Delivery Pipeline 
+                                    hand-in-hand with DevOps 3.0 culture-readyness to handle the  
+                                    <a href="https://hackernoon.com/docker-is-dead-long-live-the-unikernel-2yn3zdr" target="_blank">dawn of the Unikernel</a>.
+                                    <br><br>
+                                    I can help you fasttrack your software delivery performance with  Immutable Deployments,
+                                    Multi Cluster Management, Certification Management Tooling, OpenDNS, Remote Storage,
+                                    Provisioning Docker, Cluster Lifecycle Work, Immutable Imaging within Kubernetes, 
+                                    OpenShift and w. other Container Runtime Environments.
+
                                 </p>
 
                                 <div><img src=""></div>
@@ -68,15 +79,15 @@
                                     <icon name="ni ni-check-bold" type="primary" rounded class="mb-4">
                                     </icon>
                                     <h6 class="text-primary text-uppercase">Reduce Downtimes</h6>
-                                    <p class="description mt-3">Load Balancers and CDNs are great to eliminate down times during
-                                      rollout. I offer solid containerisation and replication of hundreds of microservices.</p>
+                                    <p class="description mt-3">Higher-level Load Balancers are great to eliminate down times during
+                                      rollout, by rerouting traffic to available RESTful Web services and with the help of Replication Sets.</p>
                                     <div>
-                                        <badge type="primary" rounded>ELASTIC</badge>
-                                        <badge type="primary" rounded>PROMETHEUS</badge>
-                                        <badge type="primary" rounded>Dynatrace</badge>
+                                        <badge type="primary" rounded>METALLB</badge>
+                                        <badge type="primary" rounded>HAPROXY</badge>
+                                        <badge type="primary" rounded>AMBASSADOR</badge>
                                     </div>
                                     <base-button tag="a" href="#" type="primary" class="mt-4">
-                                          kubedns or CoreDNS
+                                          99.999% or ERROR BUDGETS ?
                                     </base-button>
                                 </card>
                             </div>
@@ -84,16 +95,16 @@
                                 <card class="border-0" hover shadow body-classes="py-5">
                                     <icon name="ni ni-istanbul" type="success" rounded class="mb-4">
                                     </icon>
-                                    <h6 class="text-success text-uppercase">stage and DEPLOY</h6>
-                                    <p class="description mt-3">Ship your software via helm repositories by your developers. The
-                                     deployment through staging is fully orchestrated by Kubernetes.</p>
+                                    <h6 class="text-success text-uppercase">Build & Run</h6>
+                                    <p class="description mt-3">Ship your software via Docker and Helm repositories triggered and monitored by your developers. 
+                                       The CI/CD pipeline will work fluently when all these 4 key teams work hand-in-hand: Design, Dev, Test, Ops.</p>
                                     <div>
-                                        <badge type="success" rounded>Terraform</badge>
-                                        <badge type="success" rounded>CNCF</badge>
-                                        <badge type="success" rounded>feedback</badge>
+                                        <badge type="success" rounded>Ansible</badge>
+                                        <badge type="success" rounded>Istio</badge>
+                                        <badge type="success" rounded>Quay.io</badge>
                                     </div>
                                     <base-button tag="a" href="#" type="success" class="mt-4">
-                                    Infrastructure As Code
+                                    SW delivery performance
                                     </base-button>
                                 </card>
                             </div>
@@ -101,15 +112,15 @@
                                 <card class="border-0" hover shadow body-classes="py-5">
                                     <icon name="ni ni-planet" type="warning" rounded class="mb-4">
                                     </icon>
-                                    <h6 class="text-warning text-uppercase">clean code</h6>
-                                    <p class="description mt-3">With e2e testing with Mocha, Jasmine, Protractor, Junit, Selenium, Apium, Browserstack and custom performance monitoring dashboards</p>
+                                    <h6 class="text-warning text-uppercase">Data Gravity</h6>
+                                    <p class="description mt-3">As mass of data increases, quantity and speed of the services, apps or customers who are attracted to this data increases. Regional Data Center will grow over the next 4 years, nearly double in Gigabytes  Per Second, increasing the need for regional data centers. </p>
                                     <div>
-                                        <badge type="warning" rounded>CI/CD</badge>
-                                        <badge type="warning" rounded>pipelines</badge>
-                                        <badge type="warning" rounded>SCRUM</badge>
+                                        <badge type="warning" rounded>HA/Failover</badge>
+                                        <badge type="warning" rounded>Replication</badge>
+                                        <badge type="warning" rounded>Servicemesh</badge>
                                     </div>
                                     <base-button tag="a" href="#" type="warning" class="mt-4">
-                                        CONTINIOUS INTEGRATION
+                                         amplify feedback loops
                                     </base-button>
                                 </card>
                             </div>

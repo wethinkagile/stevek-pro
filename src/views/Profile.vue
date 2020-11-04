@@ -55,7 +55,7 @@
                                 <span class="font-weight-light">, 40</span>
                             </h3>
                             <div class="h6 font-weight-300"><i class="ni location_pin mr-2"></i>München, Germany</div>
-                            <div><i class="ni education_hat mr-2"></i>Site Reliability Engineer</div>
+                            <div><i class="ni education_hat mr-2"></i>IT-Berater (Fullstack/Cloud/SRE)</div>
                             <div class="mt-4"><i class="ni business_briefcase-24 mr-2"></i>
                             <!--
                             <b>Cloud</b>: K8s GCP AWS Git Jenkins Helm Quay DockerHub<br /><br /> OpenShift Dynatrace Grafana Prometheus Kafka <br /><br />
@@ -85,21 +85,16 @@
                                         Current location/time zone?
                                         </h2>
                                         <p>
-                                        I was born and raised in Heidelberg and moved near the Alps, in 2005. I am now based in Munich, Bavaria. 
                                         The TimeZone here is <a href="https://www.timeanddate.com/worldclock/germany/munich" target='_blank'>UTC+2</a>.
+                                        I was born and raised in Heidelberg and moved near the Alps, in 2005. I am now based in Munich, Bavaria. 
                                         </p>
 
-                                        <h2>
-                                        What is your GitHub handle?
-                                        </h2> 
-                                        <p>
-                                        My GitHub handle is <a href="https://github.com/stevek-pro" target='_blank'>stevek-pro</a>.
-                                        </p>
+
                                         
                                         <h2>
                                         What do you do for your clients?
                                         </h2>
-                                        <p>
+                                        <p class="stevek">
                                         I’m lucky to know enough about Networks and the Web now, to call myself a Site Reliability Engineer. 
                                         This encompasses <b>Full Stack Web Development</b> and on the other side SRE means you have the responsibily of making production the best it possibly can be.
                                         An SRE is the <b>gatekeeper of production</b>.
@@ -114,12 +109,20 @@
                                         <b>This is what we call DevOps 2.0</b>. 
                                         </p>
 
+                                                                        <h2>
+                                        What is the first thing you do after a fresh Linux OS install?
+                                        </h2> 
+                                        <p>
+                                        My GitHub handle is <a href="https://github.com/stevek-pro" target='_blank'>stevek-pro</a> and the first 
+                                        thing I usually type in after a fresh Linux Install, especially with Microsoft's Linux Kernel, is <b>PS1='\u:\W\$ '</b>.
+                                        </p>
+
                                         <h2>
                                         What open source projects do you contribute to?
                                         </h2> 
                                         <p>
                                         I’ve contributed to the UX/UI of the Gnome Project and KDE Plasma. I’ve also been working on an algorithm for <a href='httsp://eos.io'>EOSIO</a> for over a year now. 
-                                        I hope to be profitable with it soon. I can't tell any specifics about it, other than that it's written in NodeJS. A demo will come soon enough.
+                                        It's written in NodeJS. A demo will come soon enough. I am also <b>contributing</b> to the <a href="https://www.cncf.io/blog/2019/12/16/kubernetes-101/" target='_blank'>CNCF Kubernetes Project</a>.
                                         </p>
 
                                         <h2>
