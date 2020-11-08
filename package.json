@@ -8,9 +8,9 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "@auth0/auth0-spa-js": "^1.11.0",
+    "@auth0/auth0-spa-js": "^1.12.1",
     "axios": "^0.20.0",
-    "bootstrap-vue": "^2.0.4",
+    "bootstrap-vue": "^2.17.3",
     "nouislider": "^11.1.0",
     "register-service-worker": "^1.5.2",
     "sass-loader": "^9.0.3",
@@ -19,7 +19,7 @@
     "vue-flatpickr-component": "^8.1.5",
     "vue-highlight.js": "^3.1.0",
     "vue-lazyload": "^1.2.6",
-    "vue-router": "^3.0.2",
+    "vue-router": "^3.4.6",
     "vue-simple-alert": "^1.1.1",
     "vue-snotify": "^3.2.1",
     "vue2-transitions": "^0.2.3",
