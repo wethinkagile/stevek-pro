@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@auth0/auth0-spa-js": "^1.12.1",
-    "axios": "^0.19.2",
+    "axios": "^0.20.0",
     "bootstrap-vue": "^2.17.3",
     "nouislider": "^11.1.0",
     "register-service-worker": "^1.5.2",
