@@ -8,13 +8,23 @@
 
 <ul>
   <li><a href="#tech-stack">Technology Stack</a></li>
+  <li><a href="#get-started">Get started</a></li>
   <li><a href="#file-structure">File Structure</a></li>
   <li><a href="#browser-support">Browser Support</a></li>
 </ul>
 
 
 <h2 id="tech-stack">Technology Stack</h2>
-<p>A <code>yarn install</code> will feed your <code>node_modules</code> directory with Bootstrap 4, VueJS, NodeJS, SASS and Auth0. Start with <code>yarn serve</code> to open a server on localhost.</p>
+<p>Bootstrap 4<br>
+  VueJS<br>
+  NodeJS<br>
+  SASS<br>
+  Auth0</p>
+  
+<h2 id="tech-stack">Get Started</h2>
+<p>A <code>yarn install</code> will feed your <code>node_modules</code> 
+  <br><br>
+  Start with <code>yarn serve</code> to open a server on localhost.</p>
 
 
 <h2 id="file-structure">File Structure</h2>
