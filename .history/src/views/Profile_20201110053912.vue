@@ -25,9 +25,9 @@
                             </div>
                             <div class="col-lg-4 order-lg-3 text-lg-right align-self-lg-center">
                                 <div class="card-profile-actions py-4 mt-lg-0">
-                                    <base-button disabled type="danger" size="sm" class="mr-4" style='margin-bottom:10px'>Linux</base-button>
-                                    <base-button disabled type="info" size="sm" class="mr-4" style='margin-bottom:10px'>DevOps</base-button>
-                                    <base-button disabled type="success" size="sm" class="mr-4" style='margin-bottom:10px'>Scrum</base-button>
+                                    <base-button disabled type="danger" size="sm" class="mr-4" style='margin-bottom:10px'>Linux LPI Certified</base-button>
+                                    <base-button disabled type="info" size="sm" class="mr-4" style='margin-bottom:10px'>Certified</base-button>
+                                    <base-button disabled type="success" size="sm" class="mr-4" style='margin-bottom:10px'>EX-MICROSOFT</base-button>
                                     <!--
                                      <base-button disabled type="default" size="sm" class="mr-4" style='margin-bottom:10px'>VERIFIED</base-button>
                                     -->
@@ -51,11 +51,11 @@
                             </div>
                         </div>
                         <div class="text-center mt-5">
-                            <h3>Bavaria,
-                                <span class="font-weight-light">Nov 2020</span>
+                            <h3>Bavaria
+                                <span class="font-weight-light">m/41</span>
                             </h3>
                             <div class="h6 font-weight-300"><i class="ni location_pin mr-2"></i>München, Germany</div>
-                            <div><i class="ni education_hat mr-2"></i>Interview w. Steve, IT-Consultant (Fullstack/Cloud/K8s)</div>
+                            <div><i class="ni education_hat mr-2"></i>IT-Consultant (Fullstack/Cloud/K8s/OpenShift)</div>
                             <div class="mt-4"><i class="ni business_briefcase-24 mr-2"></i>
                             <!--
                             <b>Cloud</b>: K8s GCP AWS Git Jenkins Helm Quay DockerHub<br /><br /> OpenShift Dynatrace Grafana Prometheus Kafka <br /><br />

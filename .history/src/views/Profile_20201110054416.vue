@@ -25,9 +25,9 @@
                             </div>
                             <div class="col-lg-4 order-lg-3 text-lg-right align-self-lg-center">
                                 <div class="card-profile-actions py-4 mt-lg-0">
-                                    <base-button disabled type="danger" size="sm" class="mr-4" style='margin-bottom:10px'>Linux</base-button>
-                                    <base-button disabled type="info" size="sm" class="mr-4" style='margin-bottom:10px'>DevOps</base-button>
-                                    <base-button disabled type="success" size="sm" class="mr-4" style='margin-bottom:10px'>Scrum</base-button>
+                                    <base-button disabled type="danger" size="sm" class="mr-4" style='margin-bottom:10px'>Linux LPI Certified</base-button>
+                                    <base-button disabled type="info" size="sm" class="mr-4" style='margin-bottom:10px'>DevOps Certified</base-button>
+                                    <base-button disabled type="success" size="sm" class="mr-4" style='margin-bottom:10px'>Microsoft and Yahoo Alumni</base-button>
                                     <!--
                                      <base-button disabled type="default" size="sm" class="mr-4" style='margin-bottom:10px'>VERIFIED</base-button>
                                     -->
