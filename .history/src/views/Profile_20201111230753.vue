@@ -34,7 +34,7 @@
                                       <!--                       
                                      <base-button disabled type="default" size="sm" class="mr-4" style='margin-bottom:10px'>VERIFIED</base-button>
                                     -->
-                            </div>
+    </div>
                             </div>
                             <div class="col-lg-4 order-lg-1">
                                 <div class="card-profile-stats d-flex justify-content-center">

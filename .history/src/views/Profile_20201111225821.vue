@@ -28,13 +28,12 @@
                                     <base-button disabled type="danger" size="sm" class="mr-4" style='margin-bottom:10px'>Linux</base-button>
                                     <base-button disabled type="info" size="sm" class="mr-4" style='margin-bottom:10px'>DevOps</base-button>
                                     <base-button disabled type="success" size="sm" class="mr-4" style='margin-bottom:10px'>Scrum</base-button>
-                                    <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'>Fullstack JS / TS / JASMINE / MOCHA / API / CI/Test / Iterative / XP
-                                    <!--  Change Mng. of Non-Solutions like W.F. SW-Dev Model -->
-                                   </base-button>
-                                      <!--                       
+                                    
+                                    
+                                    <!--
                                      <base-button disabled type="default" size="sm" class="mr-4" style='margin-bottom:10px'>VERIFIED</base-button>
                                     -->
-                            </div>
+    </div>
                             </div>
                             <div class="col-lg-4 order-lg-1">
                                 <div class="card-profile-stats d-flex justify-content-center">

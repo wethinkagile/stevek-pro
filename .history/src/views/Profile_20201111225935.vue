@@ -28,13 +28,19 @@
                                     <base-button disabled type="danger" size="sm" class="mr-4" style='margin-bottom:10px'>Linux</base-button>
                                     <base-button disabled type="info" size="sm" class="mr-4" style='margin-bottom:10px'>DevOps</base-button>
                                     <base-button disabled type="success" size="sm" class="mr-4" style='margin-bottom:10px'>Scrum</base-button>
-                                    <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'>Fullstack JS / TS / JASMINE / MOCHA / API / CI/Test / Iterative / XP
-                                    <!--  Change Mng. of Non-Solutions like W.F. SW-Dev Model -->
-                                   </base-button>
-                                      <!--                       
+                                    
+                                    ok now lets add an additional button. see the live reloads how 
+                                    fast it pumps into the kernel (this case ubuntu :)
+                                    it loads lives
+                                    every time u stop typing
+                                    the project is build.
+                                    in milliseconds
+                                    
+                                    
+                                    <!--
                                      <base-button disabled type="default" size="sm" class="mr-4" style='margin-bottom:10px'>VERIFIED</base-button>
                                     -->
-                            </div>
+    </div>
                             </div>
                             <div class="col-lg-4 order-lg-1">
                                 <div class="card-profile-stats d-flex justify-content-center">
