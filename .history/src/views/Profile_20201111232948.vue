@@ -23,51 +23,37 @@
                                     </a>
                                 </div>
                             </div>
-                            <div class="col-lg-1 order-lg-3 text-lg-right align-self-lg-center">
+                            <div class="col-lg-4 order-lg-3 text-lg-right align-self-lg-center">
                                 <div class="card-profile-actions py-4 mt-lg-0">
                                     <base-button disabled type="danger" size="sm" class="mr-4" style='margin-bottom:10px'>Linux</base-button>
                                     <base-button disabled type="info" size="sm" class="mr-4" style='margin-bottom:10px'>DevOps</base-button>
                                     <base-button disabled type="success" size="sm" class="mr-4" style='margin-bottom:10px'>Scrum</base-button>
-                                         <!-- 
+                                    <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'>Fullstack JS
+                                      TS
+                                  
+                                  
+                                    
+                                    
+                                      JASMINE  
+                                      CHAI BDD
+                                      TDD/CI 
 
-                                    <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'>Fullstack JS/Kotlin/Groovy/NPM</base-button>
-                                      <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'> TS/JASMINE</base-button>
-                                      <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'> CHAI BDD</base-button>
-                                       <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'>TDD/CI </base-button>
+                                      MOCHA
+                                      API
+                                      BLUE/GREEN
+                                      Iterative/XP/SAFe/DevOps/
+                                      Subnetting / VLANs
+                                      HighPerf /  Compute / GPU
                                      
-                                      
-                                      <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'>Iterative  </base-button>
-                                     <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'>MOCHA</base-button>
-                                      <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'>API</base-button>
-                                       <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'> BLUE/GREEN</base-button>
-                                        <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'>Community</base-button>
-                                         <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'>Circular Ecn.</base-button>
-                                          <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'>CO2 Offset</base-button>
-
-                                          
-                                          <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'>Iterative</base-button>
-                                          <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'>XP/SAFe/DevOps</base-button>
-                                          <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'>Subnetting / VLANs / Wireguard / nmap</base-button>
-                                          <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'>CrashDumps / Live-Debugging / Multi-Cluster</base-button>
-                                          <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'>HighPerf / Compute</base-button>
-                                          <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'>Open Source</base-button>
-                                          <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'>Servicemesh</base-button>
-                                        
-                                           <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'>Neg Balance Accounting of Dev & Ops in Uptime currencies</base-button>
-                                         <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'> Open Standards</base-button>
-                                          <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'>Communication Overhead</base-button>
-                                          <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'>Monitoring and Visibility Radiation x-Team</base-button>
-                                          
-                                       
-                                           instead Process-Internalisation
-                                          Downtime/Uptime Ticket Accounting between Dev and Ops (Vetos) 
-                                          
-                                          Hochverfuegbarkeitskonten
-                                  
-                                      
-                                      
-                                  
-                               
+                                       Open Source Servicemesh
+                                     
+                                      Community & Circular Economy & CO2 Offset
+                                   
+                                    <!--  Change Mng. of Non-Solutions like W.F. SW-Dev Model -->
+                                   </base-button>
+                                      <!--                       
+                                     <base-button disabled type="default" size="sm" class="mr-4" style='margin-bottom:10px'>VERIFIED</base-button>
+                                    -->
                             </div>
                             </div>
                             <div class="col-lg-4 order-lg-1">
@@ -94,13 +80,11 @@
                             <div class="h6 font-weight-300"><i class="ni location_pin mr-2"></i>München, Germany</div>
                             <div><i class="ni education_hat mr-2"></i>Interview w. Steve, IT-Consultant (Fullstack/Cloud/K8s)</div>
                             <div class="mt-4"><i class="ni business_briefcase-24 mr-2"></i>
-
-                          
+                            <!--
                             <b>Cloud</b>: K8s GCP AWS Git Jenkins Helm Quay DockerHub<br /><br /> OpenShift Dynatrace Grafana Prometheus Kafka <br /><br />
                             <b>Fullstack</b>: Node Python Go C# Java DNS TCP/IP <br /><br />
                             <b>Web</b>: Vue Angular React Bootstrap Sass <br /><br />
                             -->
- </div>
                             </div>
                         </div>
                         <div class="mt-5 py-5 border-top text-left">

@@ -23,7 +23,7 @@
                                     </a>
                                 </div>
                             </div>
-                            <div class="col-lg-1 order-lg-3 text-lg-right align-self-lg-center">
+                            <div class="col-lg-3 order-lg-3 text-lg-right align-self-lg-center">
                                 <div class="card-profile-actions py-4 mt-lg-0">
                                     <base-button disabled type="danger" size="sm" class="mr-4" style='margin-bottom:10px'>Linux</base-button>
                                     <base-button disabled type="info" size="sm" class="mr-4" style='margin-bottom:10px'>DevOps</base-button>

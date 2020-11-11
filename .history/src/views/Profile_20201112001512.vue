@@ -23,13 +23,11 @@
                                     </a>
                                 </div>
                             </div>
-                            <div class="col-lg-1 order-lg-3 text-lg-right align-self-lg-center">
+                            <div class="col-lg-4 order-lg-3 text-lg-right align-self-lg-center">
                                 <div class="card-profile-actions py-4 mt-lg-0">
                                     <base-button disabled type="danger" size="sm" class="mr-4" style='margin-bottom:10px'>Linux</base-button>
                                     <base-button disabled type="info" size="sm" class="mr-4" style='margin-bottom:10px'>DevOps</base-button>
                                     <base-button disabled type="success" size="sm" class="mr-4" style='margin-bottom:10px'>Scrum</base-button>
-                                         <!-- 
-
                                     <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'>Fullstack JS/Kotlin/Groovy/NPM</base-button>
                                       <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'> TS/JASMINE</base-button>
                                       <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'> CHAI BDD</base-button>
@@ -43,8 +41,6 @@
                                         <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'>Community</base-button>
                                          <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'>Circular Ecn.</base-button>
                                           <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'>CO2 Offset</base-button>
-
-                                          
                                           <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'>Iterative</base-button>
                                           <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'>XP/SAFe/DevOps</base-button>
                                           <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'>Subnetting / VLANs / Wireguard / nmap</base-button>
@@ -58,7 +54,7 @@
                                           <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'>Communication Overhead</base-button>
                                           <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'>Monitoring and Visibility Radiation x-Team</base-button>
                                           
-                                       
+                                            <!-- 
                                            instead Process-Internalisation
                                           Downtime/Uptime Ticket Accounting between Dev and Ops (Vetos) 
                                           
@@ -100,7 +96,7 @@
                             <b>Fullstack</b>: Node Python Go C# Java DNS TCP/IP <br /><br />
                             <b>Web</b>: Vue Angular React Bootstrap Sass <br /><br />
                             -->
- </div>
+
                             </div>
                         </div>
                         <div class="mt-5 py-5 border-top text-left">

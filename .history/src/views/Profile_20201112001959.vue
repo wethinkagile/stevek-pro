@@ -13,23 +13,21 @@
         </section>
         <section class="section section-skew">
             <div class="container">
-                <card shadow class="card-profile mt--300" no-body>
+                <card shadow class="card-profile mt-300" no-body>
                     <div class="px-4">
                         <div class="row justify-content-center">
-                            <div class="col-lg-3 order-lg-2">
+                            <div class="col-lg-1 order-lg-1">
                                 <div class="card-profile-image">
                                     <a href="#">
                                         <img v-lazy="'img/theme/mountain-sunset.jpg'" class="rounded-circle">
                                     </a>
                                 </div>
                             </div>
-                            <div class="col-lg-1 order-lg-3 text-lg-right align-self-lg-center">
+                            <div class="col-lg-4 order-lg-3 text-lg-right align-self-lg-center">
                                 <div class="card-profile-actions py-4 mt-lg-0">
                                     <base-button disabled type="danger" size="sm" class="mr-4" style='margin-bottom:10px'>Linux</base-button>
                                     <base-button disabled type="info" size="sm" class="mr-4" style='margin-bottom:10px'>DevOps</base-button>
                                     <base-button disabled type="success" size="sm" class="mr-4" style='margin-bottom:10px'>Scrum</base-button>
-                                         <!-- 
-
                                     <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'>Fullstack JS/Kotlin/Groovy/NPM</base-button>
                                       <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'> TS/JASMINE</base-button>
                                       <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'> CHAI BDD</base-button>
@@ -44,7 +42,7 @@
                                          <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'>Circular Ecn.</base-button>
                                           <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'>CO2 Offset</base-button>
 
-                                          
+
                                           <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'>Iterative</base-button>
                                           <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'>XP/SAFe/DevOps</base-button>
                                           <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'>Subnetting / VLANs / Wireguard / nmap</base-button>
@@ -53,12 +51,12 @@
                                           <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'>Open Source</base-button>
                                           <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'>Servicemesh</base-button>
                                         
-                                           <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'>Neg Balance Accounting of Dev & Ops in Uptime currencies</base-button>
+                                           <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'>Neg Balance Accounting of Dev Ops in Uptime currencies</base-button>
                                          <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'> Open Standards</base-button>
                                           <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'>Communication Overhead</base-button>
                                           <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'>Monitoring and Visibility Radiation x-Team</base-button>
                                           
-                                       
+                                            <!-- 
                                            instead Process-Internalisation
                                           Downtime/Uptime Ticket Accounting between Dev and Ops (Vetos) 
                                           
