@@ -92,12 +92,13 @@ auncher<template>
                     </a>
                 </li>
                 <li class="nav-item d-none d-lg-block ml-lg-4">
-                    <a href="https://ln2.sync.com/dl/da8b647c0/2cz55shq-sg6gymfb-x9mitxra-tqq5diam" data-toggle="tooltip" target="_blank" rel="noopener"
+                    <a href="https://ln2.sync.com/dl/d422174a0#dappqt7c-yzp4qaf9-e4mrpyen-ex6unkit" data-toggle="tooltip" target="_blank" rel="noopener"
                        class="btn btn-neutral btn-icon">
                 <span class="btn-inner--icon">
                   <i class="fa fa-download mr-2"></i>
                 </span>
                 <span class="nav-link-inner--text">CV</span></a>
+                <!--
                 </li>
                   <li class="nav-item d-none d-lg-block ml-lg-4">
                     <a href="https://ln2.sync.com/dl/b3f005a00/pydt3u5m-b9qi5rui-9wbi95tn-42794fuv" data-toggle="tooltip" target="_blank" rel="noopener"
@@ -107,6 +108,7 @@ auncher<template>
                 </span>
                 <span class="nav-link-inner--text">References</span></a>
                 </li>
+                -->
             </ul>
         </base-nav>
     </header>
