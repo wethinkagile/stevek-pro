@@ -98,17 +98,15 @@ auncher<template>
                   <i class="fa fa-download mr-2"></i>
                 </span>
                 <span class="nav-link-inner--text">CV</span></a>
-                <!--
                 </li>
                   <li class="nav-item d-none d-lg-block ml-lg-4">
-                    <a href="https://ln2.sync.com/dl/b3f005a00/pydt3u5m-b9qi5rui-9wbi95tn-42794fuv" data-toggle="tooltip" target="_blank" rel="noopener"
+                    <a href="https://ln2.sync.com/dl/78aa24f60#nsavc6jc-dycvq3ky-y34ex7qg-nz6ryady" data-toggle="tooltip" target="_blank" rel="noopener"
                        class="btn btn-neutral btn-icon">
                 <span class="btn-inner--icon">
                   <i class="fa fa-download mr-2"></i>
                 </span>
                 <span class="nav-link-inner--text">References</span></a>
                 </li>
-                -->
             </ul>
         </base-nav>
     </header>
