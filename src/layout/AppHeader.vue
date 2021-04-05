@@ -57,26 +57,35 @@ auncher<template>
                     </a>
                     <router-link to="/profile" class="dropdown-item">About Me</router-link>
                     <!--
-                    <router-link to="/login" class="dropdown-item">Login</router-link>
+                    <router-link to="/login" class="dropdown-item">Blog</router-link>
                     <router-link to="/register" class="dropdown-item">Register</router-link>
                     -->
                 </base-dropdown>
+
+
+                    <a slot="title" href="https://blog.stevek.pro" class="nav-link" data-toggle="dropdown" role="button">
+                        <i class="ni ni-collection d-lg-none"></i>
+                        <span class="nav-link-inner--text">Blog</span>
+                    </a>
+
             </ul>
             <ul class="navbar-nav align-items-lg-center ml-lg-auto">
-                <!-- <li class="nav-item">
-                    <a class="nav-link nav-link-icon" href="https://www.facebook.com/creativetim" target="_blank" rel="noopener"
-                       data-toggle="tooltip" title="Like us on Facebook">
+                <!--
+                <li class="nav-item">
+                    <a class="nav-link nav-link-icon" href="https://blog.stevek.pro" target="_blank" rel="noopener"
+                       data-toggle="tooltip" title="Read about my ramblings in my personal blog">
                         <i class="fa fa-facebook-square"></i>
-                        <span class="nav-link-inner--text d-lg-none">Facebook</span>
+                        <span class="nav-link-inner--text d-lg-none">Nlog</span>
                     </a>
                 </li>
+                -->
                 <li class="nav-item">
                     <a class="nav-link nav-link-icon" href="https://www.instagram.com/creativetimofficial"
                        target="_blank" rel="noopener" data-toggle="tooltip" title="Follow us on Instagram">
                         <i class="fa fa-instagram"></i>
                         <span class="nav-link-inner--text d-lg-none">Instagram</span>
                     </a>
-                </li> -->
+                </li>
                 <!-- <li class="nav-item">
                     <a class="nav-link nav-link-icon" href="https://twitter.com/creativetim" target="_blank" rel="noopener"
                        data-toggle="tooltip" title="Follow us on Twitter">

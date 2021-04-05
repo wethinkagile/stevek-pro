@@ -25,10 +25,9 @@
                             </div>
                             <div class="col-lg-4 order-lg-3 text-lg-right align-self-lg-center">
                                 <div class="card-profile-actions py-4 mt-lg-0">
-                                    <base-button disabled type="danger" size="sm" class="mr-4" style='margin-bottom:10px'>Linux</base-button>
+                                    <base-button disabled type="danger" size="sm" class="mr-4" style='margin-bottom:10px'>Agile</base-button>
                                     <base-button disabled type="info" size="sm" class="mr-4" style='margin-bottom:10px'>DevOps</base-button>
-                                    <base-button disabled type="success" size="sm" class="mr-4" style='margin-bottom:10px'>Scrum</base-button>
-                                    <base-button disabled type="warning" size="sm" class="mr-4" style='margin-bottom:10px'>Fullstack JS (thanks mozilla fin love u!@@)</base-button>
+                                    <base-button disabled type="success" size="sm" class="mr-4" style='margin-bottom:10px'>FullStack</base-button>
                                       <!-- 
                                     ok now lets add an additional button. see the live reloads how 
                                     fast it pumps into the kernel (this case ubuntu :)
