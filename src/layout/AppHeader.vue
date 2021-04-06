@@ -101,7 +101,7 @@ auncher<template>
                     </a>
                 </li>
                 <li class="nav-item d-none d-lg-block ml-lg-4">
-                    <a href="https://ln2.sync.com/dl/d422174a0#dappqt7c-yzp4qaf9-e4mrpyen-ex6unkit" data-toggle="tooltip" target="_blank" rel="noopener"
+                    <a href="https://data.mirror.ac/index.php/s/BHWdi5PejFldmF7" data-toggle="tooltip" target="_blank" rel="noopener"
                        class="btn btn-neutral btn-icon">
                 <span class="btn-inner--icon">
                   <i class="fa fa-download mr-2"></i>
@@ -110,7 +110,7 @@ auncher<template>
                 </li>
                 <!--
                     <li class="nav-item d-none d-lg-block ml-lg-4">
-                        <a href="https://ln2.sync.com/dl/78aa24f60#nsavc6jc-dycvq3ky-y34ex7qg-nz6ryady" data-toggle="tooltip" target="_blank" rel="noopener"
+                        <a href="https://data.mirror.ac/index.php/s/Pxs3ZiIPnM0Nbjo" data-toggle="tooltip" target="_blank" rel="noopener"
                            class="btn btn-neutral btn-icon">
                     <span class="btn-inner--icon">
                       <i class="fa fa-download mr-2"></i>
