@@ -103,7 +103,7 @@ auncher<template>
                     </a>
                 </li>
                 <li class="nav-item d-none d-lg-block ml-lg-4">
-                    <a href="https://data.mirror.ac/index.php/s/BHWdi5PejFldmF7" data-toggle="tooltip" target="_blank" rel="noopener"
+                    <a href="https://data.mirror.ac/index.php/s/gucQJnwk1VmnFKi" data-toggle="tooltip" target="_blank" rel="noopener"
                        class="btn btn-neutral btn-icon">
                 <span class="btn-inner--icon">
                   <i class="fa fa-download mr-2"></i>
