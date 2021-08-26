@@ -25,7 +25,7 @@
                                 </h1>
 
                                 <p class="lead text-white stevek">
-                                  I offer Audit Logging and signing, high integrity / security, High Availability (HA),
+                                  I offer Kubernetes, high integrity / security, High Availability (HA),
                                     Rollbacks, CI/CD, Garbage Collection, Dockerfile build systems and storage. 
                                     <br><br>
                                     I can also help you transform your Digital business and the bottle-shape or cocktail-shape
@@ -40,7 +40,7 @@
 
                                 </p>
 
-                                <div><img src=""></div>
+                                <div><img src="">test</div>
 
                                 <div class="btn-wrapper">
                                     <router-link tag="a" to="/profile" class="mb-3 mb-sm-0" icon="fa fa-vcard-o">

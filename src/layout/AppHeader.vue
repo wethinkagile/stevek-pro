@@ -63,7 +63,7 @@ auncher<template>
                 </base-dropdown>
 
 
-                    <a slot="title" href="https://blog.stevek.pro" class="nav-link" data-toggle="dropdown" role="button">
+                    <a slot="title" href="https://transformatik.org" class="nav-link" data-toggle="dropdown" role="button">
                         <i class="ni ni-collection d-lg-none"></i>
                         <span class="nav-link-inner--text">Blog</span>
                     </a>
