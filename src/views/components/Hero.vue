@@ -22,9 +22,9 @@
                             <div class="lead text-white" style='margin-top:-25px; margin-left:87px'>Stephan Kristyn</div>
                             <br /><br />
                             <div class="lead text-white mt-4 mb-5">
-                                I'm a <router-link to="/landing">Site Reliability Engineer</router-link>.<br />
-                                I automate CI/CD, Containers & Orchestrators and help my esteemed clients 
-                                of Hi-Tech, Fintech/Insurtech and SMEs to raise DevOps Culture Awareness and Readyness.<br />
+                                I'm an <router-link to="/landing">Information Security Advisor</router-link>.<br />
+                                I develop Fullstack Solutions, APIs, automate CI/CD, Containers & Orchestrators and help my esteemed clients
+                                of the Public Health Sector to raise Security Awareness and ISO 27002:2022 Readyness.<br />
                             </div>
    
                     </div>

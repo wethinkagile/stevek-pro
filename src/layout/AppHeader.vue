@@ -102,22 +102,25 @@ auncher<template>
                         <span class="nav-link-inner--text d-lg-none">Github</span>
                     </a>
                 </li>
+
                 <li class="nav-item d-none d-lg-block ml-lg-4">
-                    <a href="https://data.mirror.ac/index.php/s/gucQJnwk1VmnFKi" data-toggle="tooltip" target="_blank" rel="noopener"
+                    <a href="https://storr.shiftcloud.de/s/Bi6AcB8TKsWjYbt" data-toggle="tooltip" target="_blank" rel="noopener"
                        class="btn btn-neutral btn-icon">
                 <span class="btn-inner--icon">
                   <i class="fa fa-download mr-2"></i>
                 </span>
                 <span class="nav-link-inner--text">CV</span></a>
                 </li>
-                    <li class="nav-item d-none d-lg-block ml-lg-4">
-                        <a href="https://data.mirror.ac/index.php/s/Pxs3ZiIPnM0Nbjo" data-toggle="tooltip" target="_blank" rel="noopener"
-                           class="btn btn-neutral btn-icon">
-                    <span class="btn-inner--icon">
-                      <i class="fa fa-download mr-2"></i>
-                    </span>
-                    <span class="nav-link-inner--text">Ref.</span></a>
-                    </li>
+<!--              -->
+<!--                <li class="nav-item d-none d-lg-block ml-lg-4">-->
+<!--                    <a href="" data-toggle="tooltip" target="_blank" rel="noopener"-->
+<!--                       class="btn btn-neutral btn-icon">-->
+<!--                <span class="btn-inner&#45;&#45;icon">-->
+<!--                  <i class="fa fa-download mr-2"></i>-->
+<!--                </span>-->
+<!--                <span class="nav-link-inner&#45;&#45;text">Ref.</span></a>-->
+<!--                </li>-->
+
             </ul>
         </base-nav>
     </header>
