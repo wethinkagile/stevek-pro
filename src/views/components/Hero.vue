@@ -23,8 +23,7 @@
                             <br /><br />
                             <div class="lead text-white mt-4 mb-5">
                                 I'm an <router-link to="/landing">Information Security Advisor</router-link>.<br />
-                                I develop Fullstack Solutions, APIs, automate CI/CD, Containers & Orchestrators and help my esteemed clients
-                                of the Public Health Sector to raise Security Awareness and ISO 27002:2022 Readyness.<br />
+                                I help my esteemed clients of the Public Health Sector to raise Security Awareness and ISO 27002:2022 Readyness. <br />
                             </div>
    
                     </div>
