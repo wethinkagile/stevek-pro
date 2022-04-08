@@ -20,7 +20,7 @@
                         <div class="row">
                             <div class="col-lg-6">
                                 <h1 class="display-3 text-white">
-                                      Information Security Advisor
+                                       Chief Technological Officer
                                   <span>for hire in DACH and BE/NE/LUX</span>
                                 </h1>
 
