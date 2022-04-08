@@ -22,10 +22,10 @@
                             <div class="lead text-white" style='margin-top:-25px; margin-left:87px'>Stephan Kristyn</div>
                             <br /><br />
                             <div class="lead text-white mt-4 mb-5">
-                                I'm an <router-link to="/landing">Information Security Advisor</router-link>.<br />
-                                I help my esteemed clients of the Health Care Sector & NGOs to raise Security Awareness and ISO 27002:2022 Readyness.
-                                I also run <a href="https://vercel.com" target="_blank" title="Serverless">Sclepius Technologies</a>,
-                                a public cloud for NGOs, hosted in Germany.<br />
+                                I'm an <router-link to="/landing">interim CTO for hire</router-link>.<br />
+                                I help my esteemed clients in Health Care to raise InfoSec & ISO 27002:2022 Readyness.
+                                I also host clients on <a href="https://wiki.shiftcloud.de" target="_blank" title="ShiftCloud">ShiftCloud</a>,
+                                a GDPR compliant & highly-available SOA cloud, located in Germany.<br />
                             </div>
    
                     </div>
