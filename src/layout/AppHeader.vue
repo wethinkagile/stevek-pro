@@ -104,7 +104,7 @@ auncher<template>
                 </li>
 
                 <li class="nav-item d-none d-lg-block ml-lg-4">
-                    <a href="https://storr.shiftcloud.de/s/Bi6AcB8TKsWjYbt" data-toggle="tooltip" target="_blank" rel="noopener"
+                    <a href="https://storr.shiftcloud.de/s/TzqDgq4RKEt3qBZ" data-toggle="tooltip" target="_blank" rel="noopener"
                        class="btn btn-neutral btn-icon">
                 <span class="btn-inner--icon">
                   <i class="fa fa-download mr-2"></i>
