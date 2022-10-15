@@ -4,7 +4,7 @@ import AppHeader from "./layout/AppHeader";
 import AppFooter from "./layout/AppFooter";
 import Components from "./views/Components.vue";
 import Landing from "./views/Landing.vue";
-import Forestai from "./views/Forestai.vue";
+import Forestai from "./views/imprint.vue";
 import References from "./views/References.vue";
 import Interface from "./views/Interface.vue";
 import Login from "./views/Login.vue";

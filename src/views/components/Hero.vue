@@ -22,9 +22,9 @@
                             <div class="lead text-white" style='margin-top:-25px; margin-left:87px'>Stephan Kristyn</div>
                             <br /><br />
                             <div class="lead text-white mt-4 mb-5">
-                                I'm an <router-link to="/landing">Interim CTO</router-link>.<br />
-                                I help my esteemed clients in Health Care to raise InfoSec & ISO 27002:2022 Readyness and 
-                                host them on <a href="https://wiki.shiftcloud.de" target="_blank" title="ShiftCloud">ShiftCloud</a>,
+                                I'm a <router-link to="/landing">CTO</router-link>and Product Owner for hire<br />.
+                                I help my esteemed clients in Health Care with my strong sense of ownership to raise Security, Regulatory
+                                and DevOps 2.0 Awareness, hosting a few of them on <a href="https://shiftcloud.de" target="_blank" title="ShiftCloud">ShiftCloud</a>,
                                 a GDPR compliant & highly-available SOA cloud, located in Germany.<br />
                             </div>
    

@@ -51,7 +51,7 @@
                 <div class="col-md-6">
                     <ul class="nav nav-footer justify-content-end">
                         <li class="nav-item">
-                            <a href="https://raw.githubusercontent.com/stevek-pro/kube-client-micro/24c5568800e4a8e28278c004604f5e0736563462/imprint.html" class="nav-link" target="_blank" rel="noopener">Imprint</a>
+                            <router-link to="/imprint"> class="nav-link" target="_blank" rel="noopener">Imprint</router-link>
                         </li>
                         <li class="nav-item">
                             <a href="/#/profile" class="nav-link" target="_self" rel="noopener">About
